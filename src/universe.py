@@ -32,6 +32,7 @@ def _download(url: str) -> pd.DataFrame:
     df = pd.read_csv(io.StringIO(r.text), sep="|")
     # Last row is a "File Creation Time" footer -> drop rows with NaN symbol.
     df = df[~df.iloc[:, 0].astype(str).str.contains("File Creation Time", na=False)]
+    df = df.dropna(subset=[df.columns[0]])   # remove rows with missing symbol
     return df
 
 
@@ -66,8 +67,10 @@ def build_universe(exclude_etfs: bool = True) -> list[str]:
     clean = []
     seen = set()
     for s in syms:
+        if not isinstance(s, str):   # skip NaN / float footer rows
+            continue
         s = s.strip().upper()
-        if not s or _BAD_SUFFIX.search(s):
+        if not s or s == "NAN" or _BAD_SUFFIX.search(s):
             continue
         if s in seen:
             continue
