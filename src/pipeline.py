@@ -4,13 +4,16 @@ survivors -> composite score -> email.
 Run locally:   python -m src.pipeline
 On CI:         invoked by .github/workflows/daily.yml
 Env flags:     DRY_RUN=1 skips sending email (prints top rows instead)
+
+v+: 下流(alpha_notifier)向けに上位候補を output/latest_candidates.json へ書き出す。
+    書き出し件数は config.yaml の publish.candidates_n（既定20）で変更可能。
 """
 from __future__ import annotations
 import os
 import yaml
 import pandas as pd
 
-from . import universe, data, factors, scoring, email_report
+from . import universe, data, factors, scoring, email_report, publish
 
 
 def load_config(path: str = "config.yaml") -> dict:
@@ -61,6 +64,12 @@ def main():
     regime_ok = check_regime(cfg)
     ranked = run(cfg)
     top_n = cfg["report"]["top_n"]
+
+    # 下流(alpha_notifierのウォッチリスト)向けに上位候補を書き出す。
+    # 件数は config.yaml の publish.candidates_n（無ければ20）。
+    publish_n = cfg.get("publish", {}).get("candidates_n", 20)
+    publish.write_candidates(ranked, publish_n)
+
     html = email_report.build_html(ranked, top_n, regime_ok)
 
     if os.environ.get("DRY_RUN") == "1":
