@@ -1,0 +1,108 @@
+{
+  "date": "2026-06-01",
+  "generated_at_utc": "2026-06-01T17:34:48Z",
+  "source": "alpha-screener",
+  "count": 20,
+  "candidates": [
+    {
+      "ticker": "BW",
+      "rank": 1,
+      "score": 1.5803
+    },
+    {
+      "ticker": "AAOI",
+      "rank": 2,
+      "score": 1.5746
+    },
+    {
+      "ticker": "ABVX",
+      "rank": 3,
+      "score": 1.567
+    },
+    {
+      "ticker": "CLYM",
+      "rank": 4,
+      "score": 1.5593
+    },
+    {
+      "ticker": "CELC",
+      "rank": 5,
+      "score": 1.5556
+    },
+    {
+      "ticker": "ASTC",
+      "rank": 6,
+      "score": 1.533
+    },
+    {
+      "ticker": "MXL",
+      "rank": 7,
+      "score": 1.4974
+    },
+    {
+      "ticker": "ONDS",
+      "rank": 8,
+      "score": 1.4262
+    },
+    {
+      "ticker": "MU",
+      "rank": 9,
+      "score": 1.3349
+    },
+    {
+      "ticker": "OPTX",
+      "rank": 10,
+      "score": 1.179
+    },
+    {
+      "ticker": "XMAX",
+      "rank": 11,
+      "score": 1.0185
+    },
+    {
+      "ticker": "AMPX",
+      "rank": 12,
+      "score": 1.0138
+    },
+    {
+      "ticker": "VSAT",
+      "rank": 13,
+      "score": 0.9458
+    },
+    {
+      "ticker": "SLS",
+      "rank": 14,
+      "score": 0.9328
+    },
+    {
+      "ticker": "QTTB",
+      "rank": 15,
+      "score": 0.8803
+    },
+    {
+      "ticker": "HUT",
+      "rank": 16,
+      "score": 0.8691
+    },
+    {
+      "ticker": "LQDA",
+      "rank": 17,
+      "score": 0.8084
+    },
+    {
+      "ticker": "INTC",
+      "rank": 18,
+      "score": 0.7487
+    },
+    {
+      "ticker": "ICHR",
+      "rank": 19,
+      "score": 0.7465
+    },
+    {
+      "ticker": "ALTO",
+      "rank": 20,
+      "score": 0.7304
+    }
+  ]
+}
