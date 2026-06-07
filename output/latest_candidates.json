@@ -1,108 +1,108 @@
 {
-  "date": "2026-06-04",
-  "generated_at_utc": "2026-06-04T23:28:44Z",
+  "date": "2026-06-07",
+  "generated_at_utc": "2026-06-07T23:23:12Z",
   "source": "alpha-screener",
   "count": 20,
   "candidates": [
     {
       "ticker": "MU",
       "rank": 1,
-      "score": 1.7181
+      "score": 2.0209
+    },
+    {
+      "ticker": "VICR",
+      "rank": 2,
+      "score": 1.7135
     },
     {
       "ticker": "MXL",
-      "rank": 2,
-      "score": 1.6344
+      "rank": 3,
+      "score": 1.6889
     },
     {
       "ticker": "AAOI",
-      "rank": 3,
-      "score": 1.544
-    },
-    {
-      "ticker": "BW",
       "rank": 4,
-      "score": 1.5438
+      "score": 1.5376
     },
     {
-      "ticker": "LITE",
+      "ticker": "AMPX",
       "rank": 5,
-      "score": 1.5211
+      "score": 1.478
     },
     {
-      "ticker": "ASTC",
+      "ticker": "VSAT",
       "rank": 6,
-      "score": 1.4764
+      "score": 1.439
     },
     {
       "ticker": "OPTX",
       "rank": 7,
-      "score": 1.4581
-    },
-    {
-      "ticker": "VICR",
-      "rank": 8,
-      "score": 1.3663
-    },
-    {
-      "ticker": "AMPX",
-      "rank": 9,
-      "score": 1.249
+      "score": 1.4167
     },
     {
       "ticker": "XMAX",
-      "rank": 10,
-      "score": 1.1987
+      "rank": 8,
+      "score": 1.4086
     },
     {
       "ticker": "SLS",
-      "rank": 11,
-      "score": 1.1229
-    },
-    {
-      "ticker": "IREN",
-      "rank": 12,
-      "score": 1.1117
-    },
-    {
-      "ticker": "VSAT",
-      "rank": 13,
-      "score": 1.1111
-    },
-    {
-      "ticker": "ONDS",
-      "rank": 14,
-      "score": 1.0525
-    },
-    {
-      "ticker": "LQDA",
-      "rank": 15,
-      "score": 1.0062
-    },
-    {
-      "ticker": "BAND",
-      "rank": 16,
-      "score": 0.9288
-    },
-    {
-      "ticker": "INTC",
-      "rank": 17,
-      "score": 0.9054
+      "rank": 9,
+      "score": 1.248
     },
     {
       "ticker": "NBIS",
+      "rank": 10,
+      "score": 1.1855
+    },
+    {
+      "ticker": "LQDA",
+      "rank": 11,
+      "score": 1.1717
+    },
+    {
+      "ticker": "INTC",
+      "rank": 12,
+      "score": 1.1712
+    },
+    {
+      "ticker": "BAND",
+      "rank": 13,
+      "score": 1.1489
+    },
+    {
+      "ticker": "ENLT",
+      "rank": 14,
+      "score": 1.0239
+    },
+    {
+      "ticker": "TER",
+      "rank": 15,
+      "score": 0.9813
+    },
+    {
+      "ticker": "AIP",
+      "rank": 16,
+      "score": 0.9548
+    },
+    {
+      "ticker": "TTMI",
+      "rank": 17,
+      "score": 0.9451
+    },
+    {
+      "ticker": "SIMO",
       "rank": 18,
-      "score": 0.8908
+      "score": 0.9253
     },
     {
-      "ticker": "ALTO",
+      "ticker": "STRL",
       "rank": 19,
-      "score": 0.7903
+      "score": 0.9203
     },
     {
-      "ticker": "ICHR",
+      "ticker": "EVC",
       "rank": 20,
-      "score": 0.7835
+      "score": 0.8844
     }
   ]
 }
