@@ -1,108 +1,108 @@
 {
-  "date": "2026-06-08",
-  "generated_at_utc": "2026-06-08T23:26:48Z",
+  "date": "2026-06-09",
+  "generated_at_utc": "2026-06-09T23:34:55Z",
   "source": "alpha-screener",
   "count": 20,
   "candidates": [
     {
       "ticker": "MU",
       "rank": 1,
-      "score": 2.0835
+      "score": 2.0099
+    },
+    {
+      "ticker": "VICR",
+      "rank": 2,
+      "score": 1.6289
     },
     {
       "ticker": "STAK",
-      "rank": 2,
-      "score": 1.5773
-    },
-    {
-      "ticker": "AAOI",
       "rank": 3,
-      "score": 1.5379
+      "score": 1.595
     },
     {
       "ticker": "CLYM",
       "rank": 4,
-      "score": 1.5371
-    },
-    {
-      "ticker": "VICR",
-      "rank": 5,
-      "score": 1.5217
-    },
-    {
-      "ticker": "LITE",
-      "rank": 6,
-      "score": 1.5086
-    },
-    {
-      "ticker": "IREN",
-      "rank": 7,
-      "score": 1.4258
+      "score": 1.5617
     },
     {
       "ticker": "OPTX",
-      "rank": 8,
-      "score": 1.4026
+      "rank": 5,
+      "score": 1.4194
     },
     {
       "ticker": "TNGX",
-      "rank": 9,
-      "score": 1.3517
+      "rank": 6,
+      "score": 1.3704
     },
     {
       "ticker": "XMAX",
-      "rank": 10,
-      "score": 1.2278
-    },
-    {
-      "ticker": "VSAT",
-      "rank": 11,
-      "score": 1.1561
-    },
-    {
-      "ticker": "VIAV",
-      "rank": 12,
-      "score": 1.1555
+      "rank": 7,
+      "score": 1.3274
     },
     {
       "ticker": "LQDA",
-      "rank": 13,
-      "score": 1.1291
-    },
-    {
-      "ticker": "BAND",
-      "rank": 14,
-      "score": 0.9963
-    },
-    {
-      "ticker": "TER",
-      "rank": 15,
-      "score": 0.8637
-    },
-    {
-      "ticker": "SIMO",
-      "rank": 16,
-      "score": 0.8599
-    },
-    {
-      "ticker": "SLS",
-      "rank": 17,
-      "score": 0.8566
+      "rank": 8,
+      "score": 1.1668
     },
     {
       "ticker": "ENLT",
-      "rank": 18,
-      "score": 0.8554
+      "rank": 9,
+      "score": 1.1028
     },
     {
-      "ticker": "AMPX",
-      "rank": 19,
-      "score": 0.8411
+      "ticker": "ICHR",
+      "rank": 10,
+      "score": 1.1025
+    },
+    {
+      "ticker": "BAND",
+      "rank": 11,
+      "score": 1.0891
+    },
+    {
+      "ticker": "UCTT",
+      "rank": 12,
+      "score": 1.0672
+    },
+    {
+      "ticker": "SLS",
+      "rank": 13,
+      "score": 1.0608
+    },
+    {
+      "ticker": "SIMO",
+      "rank": 14,
+      "score": 0.9867
+    },
+    {
+      "ticker": "AIP",
+      "rank": 15,
+      "score": 0.9145
+    },
+    {
+      "ticker": "EVC",
+      "rank": 16,
+      "score": 0.9093
+    },
+    {
+      "ticker": "TER",
+      "rank": 17,
+      "score": 0.906
+    },
+    {
+      "ticker": "TTMI",
+      "rank": 18,
+      "score": 0.882
     },
     {
       "ticker": "NBIS",
+      "rank": 19,
+      "score": 0.8682
+    },
+    {
+      "ticker": "QUIK",
       "rank": 20,
-      "score": 0.8148
+      "score": 0.8244
     }
   ]
 }
