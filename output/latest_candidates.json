@@ -1,108 +1,108 @@
 {
-  "date": "2026-06-09",
-  "generated_at_utc": "2026-06-09T23:34:55Z",
+  "date": "2026-06-10",
+  "generated_at_utc": "2026-06-10T23:48:26Z",
   "source": "alpha-screener",
   "count": 20,
   "candidates": [
     {
       "ticker": "MU",
       "rank": 1,
-      "score": 2.0099
-    },
-    {
-      "ticker": "VICR",
-      "rank": 2,
-      "score": 1.6289
+      "score": 1.9509
     },
     {
       "ticker": "STAK",
-      "rank": 3,
-      "score": 1.595
+      "rank": 2,
+      "score": 1.5954
     },
     {
       "ticker": "CLYM",
+      "rank": 3,
+      "score": 1.5932
+    },
+    {
+      "ticker": "AAOI",
       "rank": 4,
-      "score": 1.5617
+      "score": 1.562
     },
     {
       "ticker": "OPTX",
       "rank": 5,
-      "score": 1.4194
+      "score": 1.4593
     },
     {
-      "ticker": "TNGX",
+      "ticker": "LQDA",
       "rank": 6,
-      "score": 1.3704
+      "score": 1.2
     },
     {
       "ticker": "XMAX",
       "rank": 7,
-      "score": 1.3274
+      "score": 1.1447
     },
     {
-      "ticker": "LQDA",
+      "ticker": "TNGX",
       "rank": 8,
-      "score": 1.1668
+      "score": 1.1306
     },
     {
       "ticker": "ENLT",
       "rank": 9,
-      "score": 1.1028
+      "score": 0.9737
     },
     {
       "ticker": "ICHR",
       "rank": 10,
-      "score": 1.1025
-    },
-    {
-      "ticker": "BAND",
-      "rank": 11,
-      "score": 1.0891
-    },
-    {
-      "ticker": "UCTT",
-      "rank": 12,
-      "score": 1.0672
+      "score": 0.9054
     },
     {
       "ticker": "SLS",
+      "rank": 11,
+      "score": 0.8375
+    },
+    {
+      "ticker": "BAND",
+      "rank": 12,
+      "score": 0.8352
+    },
+    {
+      "ticker": "AIP",
       "rank": 13,
-      "score": 1.0608
+      "score": 0.8284
     },
     {
       "ticker": "SIMO",
       "rank": 14,
-      "score": 0.9867
-    },
-    {
-      "ticker": "AIP",
-      "rank": 15,
-      "score": 0.9145
+      "score": 0.8278
     },
     {
       "ticker": "EVC",
+      "rank": 15,
+      "score": 0.8072
+    },
+    {
+      "ticker": "UCTT",
       "rank": 16,
-      "score": 0.9093
+      "score": 0.7948
     },
     {
-      "ticker": "TER",
+      "ticker": "OCC",
       "rank": 17,
-      "score": 0.906
-    },
-    {
-      "ticker": "TTMI",
-      "rank": 18,
-      "score": 0.882
+      "score": 0.7416
     },
     {
       "ticker": "NBIS",
-      "rank": 19,
-      "score": 0.8682
+      "rank": 18,
+      "score": 0.7005
     },
     {
-      "ticker": "QUIK",
+      "ticker": "TTMI",
+      "rank": 19,
+      "score": 0.6748
+    },
+    {
+      "ticker": "QTTB",
       "rank": 20,
-      "score": 0.8244
+      "score": 0.6676
     }
   ]
 }
