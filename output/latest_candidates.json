@@ -1,108 +1,108 @@
 {
   "date": "2026-06-16",
-  "generated_at_utc": "2026-06-16T00:03:34Z",
+  "generated_at_utc": "2026-06-16T23:50:53Z",
   "source": "alpha-screener",
   "count": 20,
   "candidates": [
     {
       "ticker": "MU",
       "rank": 1,
-      "score": 1.8787
+      "score": 1.9673
     },
     {
       "ticker": "LQDA",
       "rank": 2,
-      "score": 1.6108
+      "score": 1.6724
     },
     {
       "ticker": "CLYM",
       "rank": 3,
-      "score": 1.5822
+      "score": 1.585
     },
     {
       "ticker": "AAOI",
       "rank": 4,
-      "score": 1.5716
+      "score": 1.5366
     },
     {
       "ticker": "OPTX",
       "rank": 5,
-      "score": 1.4964
+      "score": 1.4186
     },
     {
       "ticker": "VIAV",
       "rank": 6,
-      "score": 1.3144
-    },
-    {
-      "ticker": "TNGX",
-      "rank": 7,
-      "score": 1.2684
+      "score": 1.3733
     },
     {
       "ticker": "ICHR",
-      "rank": 8,
-      "score": 1.2431
-    },
-    {
-      "ticker": "SLS",
-      "rank": 9,
-      "score": 1.2208
-    },
-    {
-      "ticker": "XMAX",
-      "rank": 10,
-      "score": 1.211
+      "rank": 7,
+      "score": 1.2322
     },
     {
       "ticker": "IREN",
-      "rank": 11,
-      "score": 1.186
+      "rank": 8,
+      "score": 1.1931
     },
     {
       "ticker": "UCTT",
-      "rank": 12,
-      "score": 1.1473
-    },
-    {
-      "ticker": "ENLT",
-      "rank": 13,
-      "score": 1.0751
+      "rank": 9,
+      "score": 1.1916
     },
     {
       "ticker": "QTTB",
-      "rank": 14,
-      "score": 1.0503
+      "rank": 10,
+      "score": 1.1681
     },
     {
-      "ticker": "ASYS",
-      "rank": 15,
-      "score": 1.0413
-    },
-    {
-      "ticker": "VPG",
-      "rank": 16,
-      "score": 0.9982
-    },
-    {
-      "ticker": "SIMO",
-      "rank": 17,
-      "score": 0.9733
+      "ticker": "SLS",
+      "rank": 11,
+      "score": 1.1508
     },
     {
       "ticker": "AIP",
-      "rank": 18,
-      "score": 0.9561
+      "rank": 12,
+      "score": 1.1505
+    },
+    {
+      "ticker": "TNGX",
+      "rank": 13,
+      "score": 1.1112
+    },
+    {
+      "ticker": "XMAX",
+      "rank": 14,
+      "score": 1.0962
+    },
+    {
+      "ticker": "SIMO",
+      "rank": 15,
+      "score": 1.0674
+    },
+    {
+      "ticker": "ASYS",
+      "rank": 16,
+      "score": 1.0634
+    },
+    {
+      "ticker": "VPG",
+      "rank": 17,
+      "score": 1.0008
     },
     {
       "ticker": "TTMI",
-      "rank": 19,
-      "score": 0.9248
+      "rank": 18,
+      "score": 0.9205
     },
     {
-      "ticker": "OCC",
+      "ticker": "STRL",
+      "rank": 19,
+      "score": 0.8174
+    },
+    {
+      "ticker": "HYLN",
       "rank": 20,
-      "score": 0.8654
+      "score": 0.7903
     }
   ]
 }
