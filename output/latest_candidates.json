@@ -1,108 +1,108 @@
 {
-  "date": "2026-06-19",
-  "generated_at_utc": "2026-06-19T00:02:00Z",
+  "date": "2026-06-21",
+  "generated_at_utc": "2026-06-21T23:33:49Z",
   "source": "alpha-screener",
   "count": 20,
   "candidates": [
     {
       "ticker": "MU",
       "rank": 1,
-      "score": 1.9595
+      "score": 1.9677
     },
     {
       "ticker": "LQDA",
       "rank": 2,
-      "score": 1.8018
+      "score": 1.8363
     },
     {
       "ticker": "WDC",
       "rank": 3,
-      "score": 1.7345
+      "score": 1.7425
     },
     {
       "ticker": "CLYM",
       "rank": 4,
-      "score": 1.5685
-    },
-    {
-      "ticker": "BE",
-      "rank": 5,
-      "score": 1.4778
+      "score": 1.5748
     },
     {
       "ticker": "NUAI",
-      "rank": 6,
-      "score": 1.4534
+      "rank": 5,
+      "score": 1.5001
     },
     {
       "ticker": "ALMS",
+      "rank": 6,
+      "score": 1.489
+    },
+    {
+      "ticker": "BE",
       "rank": 7,
-      "score": 1.4413
+      "score": 1.4861
     },
     {
       "ticker": "OPTX",
       "rank": 8,
-      "score": 1.4091
+      "score": 1.417
     },
     {
       "ticker": "ICHR",
       "rank": 9,
-      "score": 1.3093
+      "score": 1.3596
     },
     {
       "ticker": "NBIS",
       "rank": 10,
-      "score": 1.2896
+      "score": 1.3318
     },
     {
       "ticker": "SLS",
       "rank": 11,
-      "score": 1.2784
+      "score": 1.3229
     },
     {
       "ticker": "UCTT",
       "rank": 12,
-      "score": 1.2117
+      "score": 1.2588
     },
     {
       "ticker": "AIP",
       "rank": 13,
-      "score": 1.1132
+      "score": 1.1517
     },
     {
       "ticker": "QTTB",
       "rank": 14,
-      "score": 1.1016
+      "score": 1.1431
     },
     {
       "ticker": "IREN",
       "rank": 15,
-      "score": 1.0964
+      "score": 1.1345
     },
     {
       "ticker": "VPG",
       "rank": 16,
-      "score": 0.9984
+      "score": 1.04
     },
     {
       "ticker": "TNGX",
       "rank": 17,
-      "score": 0.9754
+      "score": 1.0146
     },
     {
       "ticker": "TTMI",
       "rank": 18,
-      "score": 0.9575
+      "score": 0.9999
     },
     {
       "ticker": "AXGN",
       "rank": 19,
-      "score": 0.92
+      "score": 0.9555
     },
     {
       "ticker": "ASYS",
       "rank": 20,
-      "score": 0.8814
+      "score": 0.9194
     }
   ]
 }
