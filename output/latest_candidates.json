@@ -1,108 +1,108 @@
 {
-  "date": "2026-06-29",
-  "generated_at_utc": "2026-06-29T23:14:38Z",
+  "date": "2026-06-30",
+  "generated_at_utc": "2026-06-30T23:27:49Z",
   "source": "alpha-screener",
   "count": 20,
   "candidates": [
     {
       "ticker": "MU",
       "rank": 1,
-      "score": 1.8069
+      "score": 1.9299
     },
     {
       "ticker": "WDC",
       "rank": 2,
-      "score": 1.6507
+      "score": 1.6796
     },
     {
       "ticker": "NUAI",
       "rank": 3,
-      "score": 1.5978
+      "score": 1.5892
     },
     {
       "ticker": "ANRO",
       "rank": 4,
-      "score": 1.5705
+      "score": 1.5815
     },
     {
       "ticker": "CLYM",
       "rank": 5,
-      "score": 1.5603
-    },
-    {
-      "ticker": "STX",
-      "rank": 6,
-      "score": 1.5583
+      "score": 1.5715
     },
     {
       "ticker": "BE",
-      "rank": 7,
-      "score": 1.5582
+      "rank": 6,
+      "score": 1.5318
     },
     {
       "ticker": "SLS",
+      "rank": 7,
+      "score": 1.5293
+    },
+    {
+      "ticker": "STX",
       "rank": 8,
-      "score": 1.5471
+      "score": 1.5102
     },
     {
-      "ticker": "KEEL",
+      "ticker": "ALMS",
       "rank": 9,
-      "score": 1.4382
+      "score": 1.4698
     },
     {
-      "ticker": "ICHR",
+      "ticker": "TE",
       "rank": 10,
-      "score": 1.4169
+      "score": 1.4674
     },
     {
       "ticker": "LQDA",
       "rank": 11,
-      "score": 1.362
+      "score": 1.4611
+    },
+    {
+      "ticker": "OCC",
+      "rank": 12,
+      "score": 1.4011
+    },
+    {
+      "ticker": "ICHR",
+      "rank": 13,
+      "score": 1.3642
     },
     {
       "ticker": "UCTT",
-      "rank": 12,
-      "score": 1.3565
-    },
-    {
-      "ticker": "ALMS",
-      "rank": 13,
-      "score": 1.2959
-    },
-    {
-      "ticker": "DOCN",
       "rank": 14,
-      "score": 1.2283
+      "score": 1.3247
     },
     {
-      "ticker": "VSAT",
+      "ticker": "KEEL",
       "rank": 15,
-      "score": 1.1467
-    },
-    {
-      "ticker": "VPG",
-      "rank": 16,
-      "score": 1.1191
+      "score": 1.1869
     },
     {
       "ticker": "BAND",
+      "rank": 16,
+      "score": 1.163
+    },
+    {
+      "ticker": "VPG",
       "rank": 17,
-      "score": 1.0767
+      "score": 1.1094
+    },
+    {
+      "ticker": "VSAT",
+      "rank": 18,
+      "score": 1.0487
     },
     {
       "ticker": "TNGX",
-      "rank": 18,
-      "score": 1.0338
-    },
-    {
-      "ticker": "FCEL",
       "rank": 19,
-      "score": 0.9747
+      "score": 1.0474
     },
     {
       "ticker": "XMAX",
       "rank": 20,
-      "score": 0.9382
+      "score": 0.9907
     }
   ]
 }
