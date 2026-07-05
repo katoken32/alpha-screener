@@ -1,108 +1,108 @@
 {
-  "date": "2026-07-02",
-  "generated_at_utc": "2026-07-02T23:23:56Z",
+  "date": "2026-07-05",
+  "generated_at_utc": "2026-07-05T23:16:31Z",
   "source": "alpha-screener",
   "count": 20,
   "candidates": [
     {
       "ticker": "MU",
       "rank": 1,
-      "score": 1.9142
+      "score": 1.916
+    },
+    {
+      "ticker": "SRXH",
+      "rank": 2,
+      "score": 1.6362
     },
     {
       "ticker": "CLYM",
-      "rank": 2,
-      "score": 1.594
-    },
-    {
-      "ticker": "LQDA",
       "rank": 3,
-      "score": 1.5804
+      "score": 1.5911
     },
     {
       "ticker": "ABVX",
       "rank": 4,
-      "score": 1.578
+      "score": 1.5758
+    },
+    {
+      "ticker": "LQDA",
+      "rank": 5,
+      "score": 1.4011
     },
     {
       "ticker": "ALMS",
-      "rank": 5,
-      "score": 1.5742
+      "rank": 6,
+      "score": 1.3733
     },
     {
       "ticker": "SLS",
-      "rank": 6,
-      "score": 1.4975
+      "rank": 7,
+      "score": 1.2039
     },
     {
       "ticker": "ICHR",
-      "rank": 7,
-      "score": 1.478
-    },
-    {
-      "ticker": "BAND",
       "rank": 8,
-      "score": 1.402
+      "score": 1.1693
     },
     {
       "ticker": "NBIS",
       "rank": 9,
-      "score": 1.3765
+      "score": 1.1362
+    },
+    {
+      "ticker": "BAND",
+      "rank": 10,
+      "score": 1.1272
     },
     {
       "ticker": "VPG",
-      "rank": 10,
-      "score": 1.2876
+      "rank": 11,
+      "score": 1.0379
     },
     {
       "ticker": "ATEX",
-      "rank": 11,
-      "score": 1.2389
+      "rank": 12,
+      "score": 1.0055
     },
     {
       "ticker": "XMAX",
-      "rank": 12,
-      "score": 1.2319
-    },
-    {
-      "ticker": "FCEL",
       "rank": 13,
-      "score": 1.1991
+      "score": 0.9995
     },
     {
       "ticker": "TNGX",
       "rank": 14,
-      "score": 1.1432
+      "score": 0.9246
+    },
+    {
+      "ticker": "FCEL",
+      "rank": 15,
+      "score": 0.9178
     },
     {
       "ticker": "SYRE",
-      "rank": 15,
-      "score": 1.1046
+      "rank": 16,
+      "score": 0.898
     },
     {
       "ticker": "VSAT",
-      "rank": 16,
-      "score": 1.0855
-    },
-    {
-      "ticker": "DFTX",
       "rank": 17,
-      "score": 1.0132
-    },
-    {
-      "ticker": "DNTH",
-      "rank": 18,
-      "score": 0.9953
+      "score": 0.8726
     },
     {
       "ticker": "ALAB",
-      "rank": 19,
-      "score": 0.9937
+      "rank": 18,
+      "score": 0.8385
     },
     {
-      "ticker": "MRVL",
+      "ticker": "DFTX",
+      "rank": 19,
+      "score": 0.8284
+    },
+    {
+      "ticker": "SEPN",
       "rank": 20,
-      "score": 0.9756
+      "score": 0.8256
     }
   ]
 }
