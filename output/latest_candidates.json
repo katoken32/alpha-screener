@@ -1,108 +1,108 @@
 {
-  "date": "2026-07-16",
-  "generated_at_utc": "2026-07-16T23:17:15Z",
+  "date": "2026-07-19",
+  "generated_at_utc": "2026-07-19T23:06:00Z",
   "source": "alpha-screener",
   "count": 20,
   "candidates": [
     {
       "ticker": "LQDA",
       "rank": 1,
-      "score": 1.9072
+      "score": 1.9395
     },
     {
       "ticker": "ERAS",
       "rank": 2,
-      "score": 1.7216
+      "score": 1.725
     },
     {
       "ticker": "CHRN",
       "rank": 3,
-      "score": 1.6198
+      "score": 1.6255
     },
     {
       "ticker": "ANRO",
       "rank": 4,
-      "score": 1.6193
+      "score": 1.6234
     },
     {
       "ticker": "SYRE",
       "rank": 5,
-      "score": 1.6072
+      "score": 1.6094
     },
     {
       "ticker": "CLYM",
       "rank": 6,
-      "score": 1.6009
+      "score": 1.6046
     },
     {
       "ticker": "ABVX",
       "rank": 7,
-      "score": 1.5941
-    },
-    {
-      "ticker": "TNGX",
-      "rank": 8,
-      "score": 1.5852
+      "score": 1.5964
     },
     {
       "ticker": "ALMS",
-      "rank": 9,
-      "score": 1.4674
+      "rank": 8,
+      "score": 1.5125
     },
     {
       "ticker": "ATEX",
-      "rank": 10,
-      "score": 1.4138
+      "rank": 9,
+      "score": 1.5004
     },
     {
       "ticker": "ORKA",
-      "rank": 11,
-      "score": 1.3733
+      "rank": 10,
+      "score": 1.4596
     },
     {
-      "ticker": "DMRA",
-      "rank": 12,
-      "score": 1.1901
+      "ticker": "TNGX",
+      "rank": 11,
+      "score": 1.4158
     },
     {
       "ticker": "SLS",
+      "rank": 12,
+      "score": 1.3468
+    },
+    {
+      "ticker": "DMRA",
       "rank": 13,
-      "score": 1.189
+      "score": 1.3368
     },
     {
       "ticker": "RLAY",
       "rank": 14,
-      "score": 1.1277
+      "score": 1.1656
     },
     {
       "ticker": "SEPN",
       "rank": 15,
-      "score": 1.0986
+      "score": 1.1015
     },
     {
       "ticker": "DNTH",
       "rank": 16,
-      "score": 1.0509
+      "score": 1.0554
     },
     {
       "ticker": "DFTX",
       "rank": 17,
-      "score": 0.9029
+      "score": 0.9188
     },
     {
       "ticker": "RVMD",
       "rank": 18,
-      "score": 0.8498
+      "score": 0.8736
     },
     {
-      "ticker": "FDMT",
+      "ticker": "BIOA",
       "rank": 19,
-      "score": 0.8096
+      "score": 0.7932
     },
     {
-      "ticker": "PVLA",
+      "ticker": "NESR",
       "rank": 20,
-      "score": 0.7974
+      "score": 0.7786
     }
   ]
 }
