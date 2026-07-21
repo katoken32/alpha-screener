@@ -1,108 +1,108 @@
 {
-  "date": "2026-07-20",
-  "generated_at_utc": "2026-07-20T23:16:15Z",
+  "date": "2026-07-21",
+  "generated_at_utc": "2026-07-21T23:12:40Z",
   "source": "alpha-screener",
   "count": 20,
   "candidates": [
     {
       "ticker": "ERAS",
       "rank": 1,
-      "score": 1.709
+      "score": 1.6899
+    },
+    {
+      "ticker": "STX",
+      "rank": 2,
+      "score": 1.6341
     },
     {
       "ticker": "CHRN",
-      "rank": 2,
-      "score": 1.6164
-    },
-    {
-      "ticker": "ANRO",
       "rank": 3,
-      "score": 1.6136
-    },
-    {
-      "ticker": "SYRE",
-      "rank": 4,
       "score": 1.6015
     },
     {
-      "ticker": "CLYM",
+      "ticker": "ANRO",
+      "rank": 4,
+      "score": 1.5979
+    },
+    {
+      "ticker": "SYRE",
       "rank": 5,
-      "score": 1.5988
+      "score": 1.5855
     },
     {
-      "ticker": "ABVX",
+      "ticker": "CLYM",
       "rank": 6,
-      "score": 1.5903
-    },
-    {
-      "ticker": "STTK",
-      "rank": 7,
-      "score": 1.5184
-    },
-    {
-      "ticker": "ATEX",
-      "rank": 8,
-      "score": 1.4673
+      "score": 1.5801
     },
     {
       "ticker": "ALMS",
-      "rank": 9,
-      "score": 1.4663
+      "rank": 7,
+      "score": 1.5621
     },
     {
       "ticker": "ORKA",
-      "rank": 10,
-      "score": 1.3879
+      "rank": 8,
+      "score": 1.4226
     },
     {
       "ticker": "SLS",
+      "rank": 9,
+      "score": 1.4183
+    },
+    {
+      "ticker": "STTK",
+      "rank": 10,
+      "score": 1.3747
+    },
+    {
+      "ticker": "ATEX",
       "rank": 11,
-      "score": 1.3549
+      "score": 1.3317
     },
     {
       "ticker": "DMRA",
       "rank": 12,
-      "score": 1.3138
+      "score": 1.2354
     },
     {
-      "ticker": "DNTH",
+      "ticker": "ICHR",
       "rank": 13,
-      "score": 1.0311
+      "score": 1.2118
+    },
+    {
+      "ticker": "BFLY",
+      "rank": 14,
+      "score": 1.1272
     },
     {
       "ticker": "SEPN",
-      "rank": 14,
-      "score": 1.0299
+      "rank": 15,
+      "score": 1.0172
+    },
+    {
+      "ticker": "DNTH",
+      "rank": 16,
+      "score": 0.9969
     },
     {
       "ticker": "FDMT",
-      "rank": 15,
-      "score": 0.8567
-    },
-    {
-      "ticker": "DFTX",
-      "rank": 16,
-      "score": 0.8082
+      "rank": 17,
+      "score": 0.8603
     },
     {
       "ticker": "RVMD",
-      "rank": 17,
-      "score": 0.8044
-    },
-    {
-      "ticker": "BIOA",
       "rank": 18,
-      "score": 0.6895
+      "score": 0.8191
     },
     {
-      "ticker": "ETON",
+      "ticker": "DFTX",
       "rank": 19,
-      "score": 0.6842
+      "score": 0.8029
     },
     {
-      "ticker": "NWPX",
+      "ticker": "ASX",
       "rank": 20,
-      "score": 0.6438
+      "score": 0.7615
     }
   ]
 }
