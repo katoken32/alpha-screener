@@ -1,108 +1,108 @@
 {
-  "date": "2026-07-26",
-  "generated_at_utc": "2026-07-26T23:13:53Z",
+  "date": "2026-07-27",
+  "generated_at_utc": "2026-07-27T23:17:52Z",
   "source": "alpha-screener",
   "count": 20,
   "candidates": [
     {
-      "ticker": "ERAS",
-      "rank": 1,
-      "score": 1.7426
-    },
-    {
-      "ticker": "STAK",
-      "rank": 2,
-      "score": 1.6302
-    },
-    {
-      "ticker": "CLYM",
-      "rank": 3,
-      "score": 1.6021
-    },
-    {
       "ticker": "ANRO",
-      "rank": 4,
-      "score": 1.5701
+      "rank": 1,
+      "score": 1.6616
     },
     {
       "ticker": "STTK",
-      "rank": 5,
-      "score": 1.4001
-    },
-    {
-      "ticker": "ORKA",
-      "rank": 6,
-      "score": 1.2397
-    },
-    {
-      "ticker": "SYRE",
-      "rank": 7,
-      "score": 1.1627
-    },
-    {
-      "ticker": "ATEX",
-      "rank": 8,
-      "score": 1.0805
+      "rank": 2,
+      "score": 1.6321
     },
     {
       "ticker": "ALMS",
-      "rank": 9,
-      "score": 1.071
-    },
-    {
-      "ticker": "SEPN",
-      "rank": 10,
-      "score": 0.9655
-    },
-    {
-      "ticker": "DMRA",
-      "rank": 11,
-      "score": 0.8923
-    },
-    {
-      "ticker": "ICHR",
-      "rank": 12,
-      "score": 0.7886
+      "rank": 3,
+      "score": 1.6253
     },
     {
       "ticker": "ARWR",
-      "rank": 13,
-      "score": 0.7784
-    },
-    {
-      "ticker": "DNTH",
-      "rank": 14,
-      "score": 0.7503
+      "rank": 4,
+      "score": 1.3267
     },
     {
       "ticker": "BIOA",
-      "rank": 15,
-      "score": 0.7192
+      "rank": 5,
+      "score": 1.2587
+    },
+    {
+      "ticker": "SEPN",
+      "rank": 6,
+      "score": 1.0736
     },
     {
       "ticker": "ETON",
+      "rank": 7,
+      "score": 0.9975
+    },
+    {
+      "ticker": "BTSG",
+      "rank": 8,
+      "score": 0.8623
+    },
+    {
+      "ticker": "PACS",
+      "rank": 9,
+      "score": 0.7193
+    },
+    {
+      "ticker": "URGN",
+      "rank": 10,
+      "score": 0.6921
+    },
+    {
+      "ticker": "CDNA",
+      "rank": 11,
+      "score": 0.5457
+    },
+    {
+      "ticker": "LGND",
+      "rank": 12,
+      "score": 0.5348
+    },
+    {
+      "ticker": "KRYS",
+      "rank": 13,
+      "score": 0.525
+    },
+    {
+      "ticker": "ECPG",
+      "rank": 14,
+      "score": 0.5012
+    },
+    {
+      "ticker": "FBRX",
+      "rank": 15,
+      "score": 0.4751
+    },
+    {
+      "ticker": "TRVI",
       "rank": 16,
-      "score": 0.574
+      "score": 0.455
     },
     {
-      "ticker": "CIFR",
+      "ticker": "CBL",
       "rank": 17,
-      "score": 0.561
+      "score": 0.4426
     },
     {
-      "ticker": "ANDE",
+      "ticker": "DK",
       "rank": 18,
-      "score": 0.5482
+      "score": 0.4037
     },
     {
-      "ticker": "NWPX",
+      "ticker": "ATLC",
       "rank": 19,
-      "score": 0.5106
+      "score": 0.3911
     },
     {
-      "ticker": "TXG",
+      "ticker": "DGII",
       "rank": 20,
-      "score": 0.5052
+      "score": 0.3777
     }
   ]
 }
