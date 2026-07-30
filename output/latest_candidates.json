@@ -1,108 +1,108 @@
 {
-  "date": "2026-07-29",
-  "generated_at_utc": "2026-07-29T23:14:27Z",
+  "date": "2026-07-30",
+  "generated_at_utc": "2026-07-30T23:19:51Z",
   "source": "alpha-screener",
   "count": 20,
   "candidates": [
     {
-      "ticker": "ANRO",
+      "ticker": "DFNS",
       "rank": 1,
-      "score": 1.6473
+      "score": 1.3291
     },
     {
-      "ticker": "ARWR",
+      "ticker": "ANRO",
       "rank": 2,
-      "score": 1.5462
-    },
-    {
-      "ticker": "ETON",
-      "rank": 3,
-      "score": 1.3614
-    },
-    {
-      "ticker": "SEPN",
-      "rank": 4,
-      "score": 1.1654
-    },
-    {
-      "ticker": "BTSG",
-      "rank": 5,
-      "score": 0.9811
-    },
-    {
-      "ticker": "KRYS",
-      "rank": 6,
-      "score": 0.6469
-    },
-    {
-      "ticker": "ECPG",
-      "rank": 7,
-      "score": 0.6339
-    },
-    {
-      "ticker": "FIRY",
-      "rank": 8,
-      "score": 0.6278
-    },
-    {
-      "ticker": "URGN",
-      "rank": 9,
-      "score": 0.6235
-    },
-    {
-      "ticker": "CDNA",
-      "rank": 10,
-      "score": 0.6163
-    },
-    {
-      "ticker": "CBL",
-      "rank": 11,
-      "score": 0.5754
-    },
-    {
-      "ticker": "DK",
-      "rank": 12,
-      "score": 0.5428
-    },
-    {
-      "ticker": "TRVI",
-      "rank": 13,
-      "score": 0.5167
-    },
-    {
-      "ticker": "ATLC",
-      "rank": 14,
-      "score": 0.5104
+      "score": 1.2263
     },
     {
       "ticker": "CRNX",
-      "rank": 15,
-      "score": 0.5073
+      "rank": 3,
+      "score": 0.8667
     },
     {
-      "ticker": "FBRX",
-      "rank": 16,
-      "score": 0.4702
+      "ticker": "BTSG",
+      "rank": 4,
+      "score": 0.5737
+    },
+    {
+      "ticker": "ETON",
+      "rank": 5,
+      "score": 0.5036
+    },
+    {
+      "ticker": "ARWR",
+      "rank": 6,
+      "score": 0.502
+    },
+    {
+      "ticker": "URGN",
+      "rank": 7,
+      "score": 0.4896
+    },
+    {
+      "ticker": "DCO",
+      "rank": 8,
+      "score": 0.4823
+    },
+    {
+      "ticker": "KRYS",
+      "rank": 9,
+      "score": 0.4623
+    },
+    {
+      "ticker": "ECPG",
+      "rank": 10,
+      "score": 0.3947
+    },
+    {
+      "ticker": "FIRY",
+      "rank": 11,
+      "score": 0.3935
     },
     {
       "ticker": "RNG",
+      "rank": 12,
+      "score": 0.3557
+    },
+    {
+      "ticker": "ATLC",
+      "rank": 13,
+      "score": 0.3269
+    },
+    {
+      "ticker": "FBRX",
+      "rank": 14,
+      "score": 0.3237
+    },
+    {
+      "ticker": "AVAH",
+      "rank": 15,
+      "score": 0.3207
+    },
+    {
+      "ticker": "NVEC",
+      "rank": 16,
+      "score": 0.2965
+    },
+    {
+      "ticker": "CDNA",
       "rank": 17,
-      "score": 0.4263
+      "score": 0.296
+    },
+    {
+      "ticker": "CORT",
+      "rank": 18,
+      "score": 0.2617
+    },
+    {
+      "ticker": "ACHC",
+      "rank": 19,
+      "score": 0.2534
     },
     {
       "ticker": "ENVA",
-      "rank": 18,
-      "score": 0.4233
-    },
-    {
-      "ticker": "RAPP",
-      "rank": 19,
-      "score": 0.4038
-    },
-    {
-      "ticker": "PARR",
       "rank": 20,
-      "score": 0.3362
+      "score": 0.253
     }
   ]
 }
