@@ -1,108 +1,108 @@
 {
-  "date": "2026-08-03",
-  "generated_at_utc": "2026-08-03T23:15:44Z",
+  "date": "2026-08-04",
+  "generated_at_utc": "2026-08-04T23:15:59Z",
   "source": "alpha-screener",
   "count": 20,
   "candidates": [
     {
       "ticker": "ANRO",
       "rank": 1,
-      "score": 1.63
+      "score": 1.6437
+    },
+    {
+      "ticker": "QTTB",
+      "rank": 2,
+      "score": 1.6292
     },
     {
       "ticker": "ETON",
-      "rank": 2,
-      "score": 1.4097
+      "rank": 3,
+      "score": 1.1796
+    },
+    {
+      "ticker": "ACRS",
+      "rank": 4,
+      "score": 0.7353
     },
     {
       "ticker": "CDNA",
-      "rank": 3,
-      "score": 0.8718
-    },
-    {
-      "ticker": "CIFR",
-      "rank": 4,
-      "score": 0.8492
-    },
-    {
-      "ticker": "FBRX",
       "rank": 5,
-      "score": 0.8246
+      "score": 0.7233
     },
     {
       "ticker": "CORT",
       "rank": 6,
-      "score": 0.8169
-    },
-    {
-      "ticker": "NEO",
-      "rank": 7,
-      "score": 0.6986
+      "score": 0.6512
     },
     {
       "ticker": "URGN",
+      "rank": 7,
+      "score": 0.585
+    },
+    {
+      "ticker": "FIRY",
       "rank": 8,
-      "score": 0.6657
-    },
-    {
-      "ticker": "PLSE",
-      "rank": 9,
-      "score": 0.6497
-    },
-    {
-      "ticker": "ECPG",
-      "rank": 10,
-      "score": 0.6317
-    },
-    {
-      "ticker": "DK",
-      "rank": 11,
-      "score": 0.5929
-    },
-    {
-      "ticker": "RAPP",
-      "rank": 12,
-      "score": 0.559
-    },
-    {
-      "ticker": "MNPR",
-      "rank": 13,
-      "score": 0.5521
+      "score": 0.5717
     },
     {
       "ticker": "ACHC",
-      "rank": 14,
-      "score": 0.5381
+      "rank": 9,
+      "score": 0.5526
     },
     {
-      "ticker": "TRVI",
-      "rank": 15,
-      "score": 0.4972
+      "ticker": "DK",
+      "rank": 10,
+      "score": 0.5306
+    },
+    {
+      "ticker": "ECPG",
+      "rank": 11,
+      "score": 0.5176
+    },
+    {
+      "ticker": "PLSE",
+      "rank": 12,
+      "score": 0.5148
+    },
+    {
+      "ticker": "FBRX",
+      "rank": 13,
+      "score": 0.4997
     },
     {
       "ticker": "RNG",
+      "rank": 14,
+      "score": 0.498
+    },
+    {
+      "ticker": "NEO",
+      "rank": 15,
+      "score": 0.4774
+    },
+    {
+      "ticker": "MNPR",
       "rank": 16,
-      "score": 0.4752
+      "score": 0.4259
     },
     {
-      "ticker": "CRI",
+      "ticker": "TRVI",
       "rank": 17,
-      "score": 0.4188
+      "score": 0.4102
     },
     {
-      "ticker": "PBF",
+      "ticker": "CRNX",
       "rank": 18,
-      "score": 0.4019
+      "score": 0.3886
     },
     {
       "ticker": "FTRE",
       "rank": 19,
-      "score": 0.4018
+      "score": 0.381
     },
     {
-      "ticker": "CRNX",
+      "ticker": "NVEC",
       "rank": 20,
-      "score": 0.3722
+      "score": 0.3778
     }
   ]
 }
