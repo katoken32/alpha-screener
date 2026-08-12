@@ -1,108 +1,108 @@
 {
-  "date": "2026-08-11",
-  "generated_at_utc": "2026-08-11T22:57:29Z",
+  "date": "2026-08-12",
+  "generated_at_utc": "2026-08-12T22:57:24Z",
   "source": "alpha-screener",
   "count": 20,
   "candidates": [
     {
       "ticker": "FSLY",
       "rank": 1,
-      "score": 1.5868
-    },
-    {
-      "ticker": "FBRX",
-      "rank": 2,
-      "score": 1.5851
+      "score": 1.6639
     },
     {
       "ticker": "AEHR",
+      "rank": 2,
+      "score": 1.5552
+    },
+    {
+      "ticker": "TWLO",
       "rank": 3,
-      "score": 1.4758
+      "score": 1.4561
     },
     {
       "ticker": "SLN",
       "rank": 4,
-      "score": 1.3743
-    },
-    {
-      "ticker": "ECO",
-      "rank": 5,
-      "score": 1.11
+      "score": 1.3123
     },
     {
       "ticker": "PARR",
-      "rank": 6,
-      "score": 1.0067
-    },
-    {
-      "ticker": "PACS",
-      "rank": 7,
-      "score": 0.9071
-    },
-    {
-      "ticker": "URGN",
-      "rank": 8,
-      "score": 0.8956
-    },
-    {
-      "ticker": "ETON",
-      "rank": 9,
-      "score": 0.8869
-    },
-    {
-      "ticker": "PSNL",
-      "rank": 10,
-      "score": 0.8737
-    },
-    {
-      "ticker": "MNPR",
-      "rank": 11,
-      "score": 0.8489
-    },
-    {
-      "ticker": "ACRS",
-      "rank": 12,
-      "score": 0.6945
-    },
-    {
-      "ticker": "IOVA",
-      "rank": 13,
-      "score": 0.6259
-    },
-    {
-      "ticker": "ABCL",
-      "rank": 14,
-      "score": 0.602
-    },
-    {
-      "ticker": "CORT",
-      "rank": 15,
-      "score": 0.5968
-    },
-    {
-      "ticker": "WYHG",
-      "rank": 16,
-      "score": 0.57
-    },
-    {
-      "ticker": "FTK",
-      "rank": 17,
-      "score": 0.5597
+      "rank": 5,
+      "score": 0.8939
     },
     {
       "ticker": "QMCO",
+      "rank": 6,
+      "score": 0.8087
+    },
+    {
+      "ticker": "IOVA",
+      "rank": 7,
+      "score": 0.7888
+    },
+    {
+      "ticker": "ABCL",
+      "rank": 8,
+      "score": 0.7728
+    },
+    {
+      "ticker": "CORT",
+      "rank": 9,
+      "score": 0.7433
+    },
+    {
+      "ticker": "DK",
+      "rank": 10,
+      "score": 0.6455
+    },
+    {
+      "ticker": "CLMT",
+      "rank": 11,
+      "score": 0.5895
+    },
+    {
+      "ticker": "PBF",
+      "rank": 12,
+      "score": 0.5843
+    },
+    {
+      "ticker": "FTK",
+      "rank": 13,
+      "score": 0.4898
+    },
+    {
+      "ticker": "AYA",
+      "rank": 14,
+      "score": 0.4637
+    },
+    {
+      "ticker": "ECPG",
+      "rank": 15,
+      "score": 0.4237
+    },
+    {
+      "ticker": "REPL",
+      "rank": 16,
+      "score": 0.3103
+    },
+    {
+      "ticker": "PLPC",
+      "rank": 17,
+      "score": 0.2856
+    },
+    {
+      "ticker": "FA",
       "rank": 18,
-      "score": 0.5568
+      "score": 0.2605
     },
     {
-      "ticker": "RNG",
+      "ticker": "AIRJ",
       "rank": 19,
-      "score": 0.5116
+      "score": 0.202
     },
     {
-      "ticker": "FIRY",
+      "ticker": "HUM",
       "rank": 20,
-      "score": 0.4558
+      "score": 0.1846
     }
   ]
 }
