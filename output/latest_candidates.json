@@ -1,98 +1,108 @@
 {
-  "date": "2026-08-18",
-  "generated_at_utc": "2026-08-18T22:39:46Z",
+  "date": "2026-08-19",
+  "generated_at_utc": "2026-08-19T22:38:20Z",
   "source": "alpha-screener",
-  "count": 18,
+  "count": 20,
   "candidates": [
     {
-      "ticker": "STX",
+      "ticker": "PAYS",
       "rank": 1,
-      "score": 1.6128
+      "score": 1.5344
+    },
+    {
+      "ticker": "ECO",
+      "rank": 2,
+      "score": 1.0915
+    },
+    {
+      "ticker": "ETON",
+      "rank": 3,
+      "score": 1.0655
     },
     {
       "ticker": "NBIS",
-      "rank": 2,
-      "score": 0.8167
+      "rank": 4,
+      "score": 0.9669
+    },
+    {
+      "ticker": "SLN",
+      "rank": 5,
+      "score": 0.9495
+    },
+    {
+      "ticker": "MRNA",
+      "rank": 6,
+      "score": 0.8744
+    },
+    {
+      "ticker": "MNPR",
+      "rank": 7,
+      "score": 0.8018
     },
     {
       "ticker": "QMCO",
-      "rank": 3,
-      "score": 0.5919
+      "rank": 8,
+      "score": 0.7202
     },
     {
       "ticker": "IOVA",
-      "rank": 4,
-      "score": 0.3425
+      "rank": 9,
+      "score": 0.6889
     },
     {
-      "ticker": "FSLY",
-      "rank": 5,
-      "score": 0.261
+      "ticker": "UMAC",
+      "rank": 10,
+      "score": 0.6664
+    },
+    {
+      "ticker": "FA",
+      "rank": 11,
+      "score": 0.646
+    },
+    {
+      "ticker": "XNCR",
+      "rank": 12,
+      "score": 0.5764
     },
     {
       "ticker": "ABCL",
-      "rank": 6,
-      "score": 0.2532
+      "rank": 13,
+      "score": 0.5668
     },
     {
-      "ticker": "MPC",
-      "rank": 7,
-      "score": 0.1671
+      "ticker": "SPHR",
+      "rank": 14,
+      "score": 0.389
     },
     {
       "ticker": "DINO",
-      "rank": 8,
-      "score": 0.0867
+      "rank": 15,
+      "score": 0.2207
     },
     {
-      "ticker": "AVAH",
-      "rank": 9,
-      "score": -0.0089
+      "ticker": "BVS",
+      "rank": 16,
+      "score": 0.2181
+    },
+    {
+      "ticker": "MPC",
+      "rank": 17,
+      "score": 0.1765
     },
     {
       "ticker": "PBF",
-      "rank": 10,
-      "score": -0.109
-    },
-    {
-      "ticker": "FIVN",
-      "rank": 11,
-      "score": -0.1839
-    },
-    {
-      "ticker": "APA",
-      "rank": 12,
-      "score": -0.1923
-    },
-    {
-      "ticker": "U",
-      "rank": 13,
-      "score": -0.1979
-    },
-    {
-      "ticker": "CLBK",
-      "rank": 14,
-      "score": -0.4371
-    },
-    {
-      "ticker": "ZETA",
-      "rank": 15,
-      "score": -0.6596
-    },
-    {
-      "ticker": "CRSR",
-      "rank": 16,
-      "score": -0.67
-    },
-    {
-      "ticker": "VG",
-      "rank": 17,
-      "score": -0.7669
-    },
-    {
-      "ticker": "HELP",
       "rank": 18,
-      "score": -0.9064
+      "score": 0.1416
+    },
+    {
+      "ticker": "AVAH",
+      "rank": 19,
+      "score": 0.041
+    },
+    {
+      "ticker": "REPL",
+      "rank": 20,
+      "score": 0.0242
     }
   ]
 }
