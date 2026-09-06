@@ -1,108 +1,108 @@
 {
-  "date": "2026-09-04",
-  "generated_at_utc": "2026-09-04T00:00:37Z",
+  "date": "2026-09-06",
+  "generated_at_utc": "2026-09-06T23:49:24Z",
   "source": "alpha-screener",
   "count": 20,
   "candidates": [
     {
-      "ticker": "TXG",
-      "rank": 1,
-      "score": 1.5707
-    },
-    {
       "ticker": "CLYM",
-      "rank": 2,
-      "score": 1.5702
-    },
-    {
-      "ticker": "LITE",
-      "rank": 3,
-      "score": 1.4987
-    },
-    {
-      "ticker": "DELL",
-      "rank": 4,
-      "score": 1.3846
-    },
-    {
-      "ticker": "ETON",
-      "rank": 5,
-      "score": 1.3252
+      "rank": 1,
+      "score": 1.5627
     },
     {
       "ticker": "XHLD",
-      "rank": 6,
-      "score": 1.31
+      "rank": 2,
+      "score": 1.5443
     },
     {
       "ticker": "QMCO",
-      "rank": 7,
-      "score": 1.2984
+      "rank": 3,
+      "score": 1.4798
     },
     {
-      "ticker": "SLN",
-      "rank": 8,
-      "score": 1.0438
+      "ticker": "ETON",
+      "rank": 4,
+      "score": 1.451
     },
     {
-      "ticker": "PLSE",
-      "rank": 9,
-      "score": 0.913
-    },
-    {
-      "ticker": "URGN",
-      "rank": 10,
-      "score": 0.8836
+      "ticker": "DELL",
+      "rank": 5,
+      "score": 1.3835
     },
     {
       "ticker": "OMER",
+      "rank": 6,
+      "score": 1.0397
+    },
+    {
+      "ticker": "PLSE",
+      "rank": 7,
+      "score": 0.9952
+    },
+    {
+      "ticker": "TJGC",
+      "rank": 8,
+      "score": 0.9509
+    },
+    {
+      "ticker": "URGN",
+      "rank": 9,
+      "score": 0.8978
+    },
+    {
+      "ticker": "AMLX",
+      "rank": 10,
+      "score": 0.7857
+    },
+    {
+      "ticker": "ABCL",
       "rank": 11,
-      "score": 0.8621
+      "score": 0.7785
     },
     {
       "ticker": "MRNA",
       "rank": 12,
-      "score": 0.7307
-    },
-    {
-      "ticker": "XNCR",
-      "rank": 13,
-      "score": 0.6759
-    },
-    {
-      "ticker": "VIR",
-      "rank": 14,
-      "score": 0.6756
+      "score": 0.7495
     },
     {
       "ticker": "FDMT",
+      "rank": 13,
+      "score": 0.7262
+    },
+    {
+      "ticker": "NEXA",
+      "rank": 14,
+      "score": 0.7131
+    },
+    {
+      "ticker": "XNCR",
       "rank": 15,
-      "score": 0.6756
-    },
-    {
-      "ticker": "TJGC",
-      "rank": 16,
-      "score": 0.6647
-    },
-    {
-      "ticker": "INBX",
-      "rank": 17,
-      "score": 0.663
+      "score": 0.7058
     },
     {
       "ticker": "HPE",
+      "rank": 16,
+      "score": 0.6929
+    },
+    {
+      "ticker": "VIR",
+      "rank": 17,
+      "score": 0.6826
+    },
+    {
+      "ticker": "ECO",
       "rank": 18,
-      "score": 0.6527
+      "score": 0.6509
     },
     {
-      "ticker": "ABCL",
+      "ticker": "MRVI",
       "rank": 19,
-      "score": 0.6432
+      "score": 0.6325
     },
     {
-      "ticker": "AMLX",
+      "ticker": "SLN",
       "rank": 20,
-      "score": 0.6079
+      "score": 0.6145
     }
   ]
 }
