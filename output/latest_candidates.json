@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-06",
-  "generated_at_utc": "2026-09-06T23:49:24Z",
+  "date": "2026-09-08",
+  "generated_at_utc": "2026-09-08T00:19:45Z",
   "source": "alpha-screener",
   "count": 20,
   "candidates": [
@@ -12,22 +12,22 @@
     {
       "ticker": "XHLD",
       "rank": 2,
-      "score": 1.5443
+      "score": 1.5442
     },
     {
       "ticker": "QMCO",
       "rank": 3,
-      "score": 1.4798
+      "score": 1.4797
     },
     {
       "ticker": "ETON",
       "rank": 4,
-      "score": 1.451
+      "score": 1.4509
     },
     {
       "ticker": "DELL",
       "rank": 5,
-      "score": 1.3835
+      "score": 1.3834
     },
     {
       "ticker": "OMER",
@@ -37,7 +37,7 @@
     {
       "ticker": "PLSE",
       "rank": 7,
-      "score": 0.9952
+      "score": 0.9951
     },
     {
       "ticker": "TJGC",
@@ -62,7 +62,7 @@
     {
       "ticker": "MRNA",
       "rank": 12,
-      "score": 0.7495
+      "score": 0.7494
     },
     {
       "ticker": "FDMT",
@@ -72,7 +72,7 @@
     {
       "ticker": "NEXA",
       "rank": 14,
-      "score": 0.7131
+      "score": 0.713
     },
     {
       "ticker": "XNCR",
@@ -82,7 +82,7 @@
     {
       "ticker": "HPE",
       "rank": 16,
-      "score": 0.6929
+      "score": 0.6928
     },
     {
       "ticker": "VIR",
@@ -92,12 +92,12 @@
     {
       "ticker": "ECO",
       "rank": 18,
-      "score": 0.6509
+      "score": 0.6508
     },
     {
       "ticker": "MRVI",
       "rank": 19,
-      "score": 0.6325
+      "score": 0.6324
     },
     {
       "ticker": "SLN",
