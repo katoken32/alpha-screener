@@ -1,108 +1,108 @@
 {
-  "date": "2026-09-08",
-  "generated_at_utc": "2026-09-08T00:19:45Z",
+  "date": "2026-09-09",
+  "generated_at_utc": "2026-09-09T00:03:33Z",
   "source": "alpha-screener",
   "count": 20,
   "candidates": [
     {
       "ticker": "CLYM",
       "rank": 1,
-      "score": 1.5627
-    },
-    {
-      "ticker": "XHLD",
-      "rank": 2,
-      "score": 1.5442
-    },
-    {
-      "ticker": "QMCO",
-      "rank": 3,
-      "score": 1.4797
+      "score": 1.5232
     },
     {
       "ticker": "ETON",
-      "rank": 4,
-      "score": 1.4509
-    },
-    {
-      "ticker": "DELL",
-      "rank": 5,
-      "score": 1.3834
-    },
-    {
-      "ticker": "OMER",
-      "rank": 6,
-      "score": 1.0397
-    },
-    {
-      "ticker": "PLSE",
-      "rank": 7,
-      "score": 0.9951
-    },
-    {
-      "ticker": "TJGC",
-      "rank": 8,
-      "score": 0.9509
-    },
-    {
-      "ticker": "URGN",
-      "rank": 9,
-      "score": 0.8978
-    },
-    {
-      "ticker": "AMLX",
-      "rank": 10,
-      "score": 0.7857
+      "rank": 2,
+      "score": 0.9826
     },
     {
       "ticker": "ABCL",
-      "rank": 11,
-      "score": 0.7785
-    },
-    {
-      "ticker": "MRNA",
-      "rank": 12,
-      "score": 0.7494
+      "rank": 3,
+      "score": 0.4932
     },
     {
       "ticker": "FDMT",
+      "rank": 4,
+      "score": 0.4518
+    },
+    {
+      "ticker": "AMLX",
+      "rank": 5,
+      "score": 0.3759
+    },
+    {
+      "ticker": "ALM",
+      "rank": 6,
+      "score": 0.2593
+    },
+    {
+      "ticker": "AYA",
+      "rank": 7,
+      "score": 0.2343
+    },
+    {
+      "ticker": "FTH",
+      "rank": 8,
+      "score": 0.2186
+    },
+    {
+      "ticker": "ACHV",
+      "rank": 9,
+      "score": 0.2137
+    },
+    {
+      "ticker": "CRWD",
+      "rank": 10,
+      "score": 0.18
+    },
+    {
+      "ticker": "CGEM",
+      "rank": 11,
+      "score": 0.0775
+    },
+    {
+      "ticker": "ECPG",
+      "rank": 12,
+      "score": -0.0991
+    },
+    {
+      "ticker": "BLTE",
       "rank": 13,
-      "score": 0.7262
+      "score": -0.1166
     },
     {
-      "ticker": "NEXA",
+      "ticker": "HNST",
       "rank": 14,
-      "score": 0.713
+      "score": -0.304
     },
     {
-      "ticker": "XNCR",
+      "ticker": "CBLL",
       "rank": 15,
-      "score": 0.7058
+      "score": -0.3153
     },
     {
-      "ticker": "HPE",
+      "ticker": "HTFL",
       "rank": 16,
-      "score": 0.6928
+      "score": -0.3356
     },
     {
-      "ticker": "VIR",
+      "ticker": "CTRN",
       "rank": 17,
-      "score": 0.6826
+      "score": -0.371
     },
     {
-      "ticker": "ECO",
+      "ticker": "CHEF",
       "rank": 18,
-      "score": 0.6508
+      "score": -0.4624
     },
     {
-      "ticker": "MRVI",
+      "ticker": "GTLB",
       "rank": 19,
-      "score": 0.6324
+      "score": -0.4807
     },
     {
-      "ticker": "SLN",
+      "ticker": "ABNB",
       "rank": 20,
-      "score": 0.6145
+      "score": -0.5311
     }
   ]
 }
