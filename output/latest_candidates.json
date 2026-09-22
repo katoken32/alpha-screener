@@ -1,108 +1,13 @@
 {
-  "date": "2026-09-21",
-  "generated_at_utc": "2026-09-21T00:12:11Z",
+  "date": "2026-09-22",
+  "generated_at_utc": "2026-09-22T00:50:56Z",
   "source": "alpha-screener",
-  "count": 20,
+  "count": 1,
   "candidates": [
     {
-      "ticker": "TJGC",
+      "ticker": "PBAM",
       "rank": 1,
-      "score": 1.6063
-    },
-    {
-      "ticker": "EDRY",
-      "rank": 2,
-      "score": 1.5763
-    },
-    {
-      "ticker": "TWST",
-      "rank": 3,
-      "score": 1.5697
-    },
-    {
-      "ticker": "MRNA",
-      "rank": 4,
-      "score": 1.4801
-    },
-    {
-      "ticker": "PAYS",
-      "rank": 5,
-      "score": 1.3269
-    },
-    {
-      "ticker": "DELL",
-      "rank": 6,
-      "score": 1.3177
-    },
-    {
-      "ticker": "FDMT",
-      "rank": 7,
-      "score": 1.1388
-    },
-    {
-      "ticker": "CORT",
-      "rank": 8,
-      "score": 0.9367
-    },
-    {
-      "ticker": "VIR",
-      "rank": 9,
-      "score": 0.9312
-    },
-    {
-      "ticker": "INBX",
-      "rank": 10,
-      "score": 0.8677
-    },
-    {
-      "ticker": "CGEM",
-      "rank": 11,
-      "score": 0.8311
-    },
-    {
-      "ticker": "ECO",
-      "rank": 12,
-      "score": 0.7399
-    },
-    {
-      "ticker": "PLSE",
-      "rank": 13,
-      "score": 0.7303
-    },
-    {
-      "ticker": "AYA",
-      "rank": 14,
-      "score": 0.6815
-    },
-    {
-      "ticker": "XNCR",
-      "rank": 15,
-      "score": 0.6774
-    },
-    {
-      "ticker": "HPE",
-      "rank": 16,
-      "score": 0.6562
-    },
-    {
-      "ticker": "NRIX",
-      "rank": 17,
-      "score": 0.649
-    },
-    {
-      "ticker": "ACHV",
-      "rank": 18,
-      "score": 0.6254
-    },
-    {
-      "ticker": "EWTX",
-      "rank": 19,
-      "score": 0.6225
-    },
-    {
-      "ticker": "FTH",
-      "rank": 20,
-      "score": 0.5859
+      "score": 0.0
     }
   ]
 }
