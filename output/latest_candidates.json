@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-23",
-  "generated_at_utc": "2026-09-23T00:19:41Z",
+  "date": "2026-09-24",
+  "generated_at_utc": "2026-09-24T00:27:21Z",
   "source": "alpha-screener",
   "count": 1,
   "candidates": [
     {
-      "ticker": "PBAM",
+      "ticker": "SHEL",
       "rank": 1,
       "score": 0.0
     }
