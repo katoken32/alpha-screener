@@ -1,108 +1,13 @@
 {
-  "date": "2026-09-29",
-  "generated_at_utc": "2026-09-29T01:49:25Z",
+  "date": "2026-09-30",
+  "generated_at_utc": "2026-09-30T01:16:48Z",
   "source": "alpha-screener",
-  "count": 20,
+  "count": 1,
   "candidates": [
     {
-      "ticker": "TJGC",
+      "ticker": "SHEL",
       "rank": 1,
-      "score": 1.5969
-    },
-    {
-      "ticker": "TWST",
-      "rank": 2,
-      "score": 1.5335
-    },
-    {
-      "ticker": "CDNA",
-      "rank": 3,
-      "score": 1.3005
-    },
-    {
-      "ticker": "RVMD",
-      "rank": 4,
-      "score": 1.2972
-    },
-    {
-      "ticker": "ABSI",
-      "rank": 5,
-      "score": 1.1409
-    },
-    {
-      "ticker": "VIR",
-      "rank": 6,
-      "score": 1.0171
-    },
-    {
-      "ticker": "DELL",
-      "rank": 7,
-      "score": 0.936
-    },
-    {
-      "ticker": "TWLO",
-      "rank": 8,
-      "score": 0.823
-    },
-    {
-      "ticker": "VICR",
-      "rank": 9,
-      "score": 0.816
-    },
-    {
-      "ticker": "VSXY",
-      "rank": 10,
-      "score": 0.7723
-    },
-    {
-      "ticker": "ACHV",
-      "rank": 11,
-      "score": 0.7607
-    },
-    {
-      "ticker": "AYA",
-      "rank": 12,
-      "score": 0.7175
-    },
-    {
-      "ticker": "CORT",
-      "rank": 13,
-      "score": 0.651
-    },
-    {
-      "ticker": "FDMT",
-      "rank": 14,
-      "score": 0.6432
-    },
-    {
-      "ticker": "NUAI",
-      "rank": 15,
-      "score": 0.6426
-    },
-    {
-      "ticker": "OKTA",
-      "rank": 16,
-      "score": 0.5899
-    },
-    {
-      "ticker": "CRWD",
-      "rank": 17,
-      "score": 0.5685
-    },
-    {
-      "ticker": "PLSE",
-      "rank": 18,
-      "score": 0.5574
-    },
-    {
-      "ticker": "ECO",
-      "rank": 19,
-      "score": 0.5537
-    },
-    {
-      "ticker": "ILMN",
-      "rank": 20,
-      "score": 0.5366
+      "score": 0.0
     }
   ]
 }
