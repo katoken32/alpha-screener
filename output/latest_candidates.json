@@ -1,7 +1,108 @@
 {
-  "date": "2026-10-01",
-  "generated_at_utc": "2026-10-01T01:15:20Z",
+  "date": "2026-10-02",
+  "generated_at_utc": "2026-10-02T01:36:47Z",
   "source": "alpha-screener",
-  "count": 0,
-  "candidates": []
+  "count": 20,
+  "candidates": [
+    {
+      "ticker": "TWLO",
+      "rank": 1,
+      "score": 2.0708
+    },
+    {
+      "ticker": "VSXY",
+      "rank": 2,
+      "score": 1.7031
+    },
+    {
+      "ticker": "TRLV",
+      "rank": 3,
+      "score": 0.9382
+    },
+    {
+      "ticker": "PBF",
+      "rank": 4,
+      "score": 0.6719
+    },
+    {
+      "ticker": "SNOW",
+      "rank": 5,
+      "score": 0.6012
+    },
+    {
+      "ticker": "VLO",
+      "rank": 6,
+      "score": 0.4865
+    },
+    {
+      "ticker": "PD",
+      "rank": 7,
+      "score": 0.4118
+    },
+    {
+      "ticker": "WT",
+      "rank": 8,
+      "score": 0.3763
+    },
+    {
+      "ticker": "P",
+      "rank": 9,
+      "score": 0.3266
+    },
+    {
+      "ticker": "SFL",
+      "rank": 10,
+      "score": 0.307
+    },
+    {
+      "ticker": "SB",
+      "rank": 11,
+      "score": 0.3043
+    },
+    {
+      "ticker": "SN",
+      "rank": 12,
+      "score": 0.2276
+    },
+    {
+      "ticker": "TEN",
+      "rank": 13,
+      "score": 0.1728
+    },
+    {
+      "ticker": "RSKD",
+      "rank": 14,
+      "score": 0.1474
+    },
+    {
+      "ticker": "TNK",
+      "rank": 15,
+      "score": 0.1391
+    },
+    {
+      "ticker": "PSX",
+      "rank": 16,
+      "score": 0.0851
+    },
+    {
+      "ticker": "SSL",
+      "rank": 17,
+      "score": 0.0453
+    },
+    {
+      "ticker": "RVTY",
+      "rank": 18,
+      "score": 0.0362
+    },
+    {
+      "ticker": "PRLB",
+      "rank": 19,
+      "score": 0.0332
+    },
+    {
+      "ticker": "S",
+      "rank": 20,
+      "score": 0.0306
+    }
+  ]
 }
