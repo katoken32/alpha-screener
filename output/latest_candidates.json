@@ -1,108 +1,108 @@
 {
-  "date": "2026-10-05",
-  "generated_at_utc": "2026-10-05T00:48:13Z",
+  "date": "2026-10-06",
+  "generated_at_utc": "2026-10-06T02:19:44Z",
   "source": "alpha-screener",
   "count": 20,
   "candidates": [
     {
       "ticker": "TXG",
       "rank": 1,
-      "score": 1.7556
+      "score": 1.7531
     },
     {
-      "ticker": "EDRY",
+      "ticker": "CDNA",
       "rank": 2,
-      "score": 1.6558
+      "score": 1.7254
     },
     {
       "ticker": "MXL",
       "rank": 3,
-      "score": 1.6505
-    },
-    {
-      "ticker": "CDNA",
-      "rank": 4,
-      "score": 1.6423
+      "score": 1.6474
     },
     {
       "ticker": "IOVA",
-      "rank": 5,
-      "score": 1.6342
+      "rank": 4,
+      "score": 1.6321
     },
     {
       "ticker": "TWST",
+      "rank": 5,
+      "score": 1.6093
+    },
+    {
+      "ticker": "EDRY",
       "rank": 6,
-      "score": 1.6118
+      "score": 1.6054
     },
     {
       "ticker": "RVMD",
       "rank": 7,
-      "score": 1.365
+      "score": 1.4161
     },
     {
       "ticker": "ABSI",
       "rank": 8,
-      "score": 1.2761
+      "score": 1.2497
     },
     {
       "ticker": "LITE",
       "rank": 9,
-      "score": 1.233
+      "score": 1.2296
     },
     {
       "ticker": "DELL",
       "rank": 10,
-      "score": 1.1592
+      "score": 1.2244
     },
     {
       "ticker": "VICR",
       "rank": 11,
-      "score": 1.0364
+      "score": 1.0082
     },
     {
       "ticker": "IBRX",
       "rank": 12,
-      "score": 0.8726
+      "score": 0.9107
     },
     {
       "ticker": "ECO",
       "rank": 13,
-      "score": 0.7451
+      "score": 0.7905
     },
     {
-      "ticker": "HNGE",
+      "ticker": "KOD",
       "rank": 14,
-      "score": 0.687
+      "score": 0.7452
+    },
+    {
+      "ticker": "CORT",
+      "rank": 15,
+      "score": 0.7096
     },
     {
       "ticker": "OKTA",
-      "rank": 15,
-      "score": 0.6567
-    },
-    {
-      "ticker": "VSXY",
       "rank": 16,
-      "score": 0.6549
+      "score": 0.6816
     },
     {
       "ticker": "HPE",
       "rank": 17,
-      "score": 0.631
+      "score": 0.6685
     },
     {
       "ticker": "PLSE",
       "rank": 18,
-      "score": 0.6282
+      "score": 0.6586
     },
     {
-      "ticker": "CORT",
+      "ticker": "CRWD",
       "rank": 19,
-      "score": 0.6126
+      "score": 0.6314
     },
     {
-      "ticker": "INTC",
+      "ticker": "PAYS",
       "rank": 20,
-      "score": 0.5999
+      "score": 0.6129
     }
   ]
 }
