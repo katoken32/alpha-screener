@@ -1,108 +1,108 @@
 {
-  "date": "2026-10-07",
-  "generated_at_utc": "2026-10-07T01:28:45Z",
+  "date": "2026-10-08",
+  "generated_at_utc": "2026-10-08T01:52:16Z",
   "source": "alpha-screener",
   "count": 20,
   "candidates": [
     {
-      "ticker": "IOVA",
+      "ticker": "TXG",
       "rank": 1,
-      "score": 1.5373
+      "score": 1.675
     },
     {
       "ticker": "MXL",
       "rank": 2,
-      "score": 1.5244
+      "score": 1.5872
     },
     {
-      "ticker": "VICR",
+      "ticker": "IOVA",
       "rank": 3,
-      "score": 1.2158
+      "score": 1.5774
+    },
+    {
+      "ticker": "EDRY",
+      "rank": 4,
+      "score": 1.5723
+    },
+    {
+      "ticker": "TWST",
+      "rank": 5,
+      "score": 1.5233
+    },
+    {
+      "ticker": "CDNA",
+      "rank": 6,
+      "score": 1.5196
+    },
+    {
+      "ticker": "DELL",
+      "rank": 7,
+      "score": 1.3919
+    },
+    {
+      "ticker": "PGEN",
+      "rank": 8,
+      "score": 1.2977
+    },
+    {
+      "ticker": "VIR",
+      "rank": 9,
+      "score": 0.9306
+    },
+    {
+      "ticker": "ABSI",
+      "rank": 10,
+      "score": 0.9305
+    },
+    {
+      "ticker": "IBRX",
+      "rank": 11,
+      "score": 0.9283
+    },
+    {
+      "ticker": "TWLO",
+      "rank": 12,
+      "score": 0.9068
+    },
+    {
+      "ticker": "ECO",
+      "rank": 13,
+      "score": 0.8998
+    },
+    {
+      "ticker": "HPE",
+      "rank": 14,
+      "score": 0.8235
+    },
+    {
+      "ticker": "OKTA",
+      "rank": 15,
+      "score": 0.7824
+    },
+    {
+      "ticker": "PLSE",
+      "rank": 16,
+      "score": 0.7081
+    },
+    {
+      "ticker": "BE",
+      "rank": 17,
+      "score": 0.6861
     },
     {
       "ticker": "PAYS",
-      "rank": 4,
-      "score": 0.9747
+      "rank": 18,
+      "score": 0.686
     },
     {
-      "ticker": "FRO",
-      "rank": 5,
-      "score": 0.8007
+      "ticker": "HNGE",
+      "rank": 19,
+      "score": 0.6701
     },
     {
       "ticker": "CORT",
-      "rank": 6,
-      "score": 0.7732
-    },
-    {
-      "ticker": "INTC",
-      "rank": 7,
-      "score": 0.7718
-    },
-    {
-      "ticker": "AYA",
-      "rank": 8,
-      "score": 0.767
-    },
-    {
-      "ticker": "AVT",
-      "rank": 9,
-      "score": 0.6901
-    },
-    {
-      "ticker": "MTW",
-      "rank": 10,
-      "score": 0.6519
-    },
-    {
-      "ticker": "BHE",
-      "rank": 11,
-      "score": 0.6366
-    },
-    {
-      "ticker": "FORM",
-      "rank": 12,
-      "score": 0.616
-    },
-    {
-      "ticker": "ILMN",
-      "rank": 13,
-      "score": 0.6069
-    },
-    {
-      "ticker": "VIAV",
-      "rank": 14,
-      "score": 0.5572
-    },
-    {
-      "ticker": "LGND",
-      "rank": 15,
-      "score": 0.4974
-    },
-    {
-      "ticker": "IRDM",
-      "rank": 16,
-      "score": 0.4916
-    },
-    {
-      "ticker": "SFL",
-      "rank": 17,
-      "score": 0.4515
-    },
-    {
-      "ticker": "NAT",
-      "rank": 18,
-      "score": 0.445
-    },
-    {
-      "ticker": "DHT",
-      "rank": 19,
-      "score": 0.4239
-    },
-    {
-      "ticker": "VLO",
       "rank": 20,
-      "score": 0.3976
+      "score": 0.646
     }
   ]
 }
