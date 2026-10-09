@@ -1,108 +1,108 @@
 {
-  "date": "2026-10-08",
-  "generated_at_utc": "2026-10-08T01:52:16Z",
+  "date": "2026-10-09",
+  "generated_at_utc": "2026-10-09T02:05:17Z",
   "source": "alpha-screener",
   "count": 20,
   "candidates": [
     {
       "ticker": "TXG",
       "rank": 1,
-      "score": 1.675
-    },
-    {
-      "ticker": "MXL",
-      "rank": 2,
-      "score": 1.5872
+      "score": 1.6788
     },
     {
       "ticker": "IOVA",
-      "rank": 3,
-      "score": 1.5774
+      "rank": 2,
+      "score": 1.577
     },
     {
       "ticker": "EDRY",
-      "rank": 4,
-      "score": 1.5723
-    },
-    {
-      "ticker": "TWST",
-      "rank": 5,
-      "score": 1.5233
+      "rank": 3,
+      "score": 1.5763
     },
     {
       "ticker": "CDNA",
-      "rank": 6,
-      "score": 1.5196
+      "rank": 4,
+      "score": 1.5213
     },
     {
       "ticker": "DELL",
-      "rank": 7,
-      "score": 1.3919
+      "rank": 5,
+      "score": 1.3922
     },
     {
       "ticker": "PGEN",
-      "rank": 8,
-      "score": 1.2977
-    },
-    {
-      "ticker": "VIR",
-      "rank": 9,
-      "score": 0.9306
-    },
-    {
-      "ticker": "ABSI",
-      "rank": 10,
-      "score": 0.9305
-    },
-    {
-      "ticker": "IBRX",
-      "rank": 11,
-      "score": 0.9283
-    },
-    {
-      "ticker": "TWLO",
-      "rank": 12,
-      "score": 0.9068
+      "rank": 6,
+      "score": 1.2912
     },
     {
       "ticker": "ECO",
-      "rank": 13,
-      "score": 0.8998
-    },
-    {
-      "ticker": "HPE",
-      "rank": 14,
-      "score": 0.8235
+      "rank": 7,
+      "score": 1.1673
     },
     {
       "ticker": "OKTA",
-      "rank": 15,
-      "score": 0.7824
+      "rank": 8,
+      "score": 1.1193
     },
     {
-      "ticker": "PLSE",
-      "rank": 16,
-      "score": 0.7081
+      "ticker": "UMC",
+      "rank": 9,
+      "score": 1.083
     },
     {
-      "ticker": "BE",
-      "rank": 17,
-      "score": 0.6861
+      "ticker": "TWLO",
+      "rank": 10,
+      "score": 1.0751
     },
     {
       "ticker": "PAYS",
-      "rank": 18,
-      "score": 0.686
+      "rank": 11,
+      "score": 1.0037
+    },
+    {
+      "ticker": "HPE",
+      "rank": 12,
+      "score": 0.9739
+    },
+    {
+      "ticker": "IBRX",
+      "rank": 13,
+      "score": 0.9638
+    },
+    {
+      "ticker": "AMD",
+      "rank": 14,
+      "score": 0.9397
+    },
+    {
+      "ticker": "PLSE",
+      "rank": 15,
+      "score": 0.8985
+    },
+    {
+      "ticker": "VIR",
+      "rank": 16,
+      "score": 0.8345
     },
     {
       "ticker": "HNGE",
+      "rank": 17,
+      "score": 0.8282
+    },
+    {
+      "ticker": "HSHP",
+      "rank": 18,
+      "score": 0.7444
+    },
+    {
+      "ticker": "INSW",
       "rank": 19,
-      "score": 0.6701
+      "score": 0.7362
     },
     {
       "ticker": "CORT",
       "rank": 20,
-      "score": 0.646
+      "score": 0.698
     }
   ]
 }
