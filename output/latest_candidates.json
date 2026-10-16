@@ -1,108 +1,18 @@
 {
-  "date": "2026-10-15",
-  "generated_at_utc": "2026-10-15T00:34:06Z",
+  "date": "2026-10-16",
+  "generated_at_utc": "2026-10-16T00:20:33Z",
   "source": "alpha-screener",
-  "count": 20,
+  "count": 2,
   "candidates": [
     {
-      "ticker": "VLO",
-      "rank": 1,
-      "score": 1.4991
-    },
-    {
-      "ticker": "TEN",
-      "rank": 2,
-      "score": 1.1873
-    },
-    {
-      "ticker": "SFL",
-      "rank": 3,
-      "score": 1.1745
-    },
-    {
-      "ticker": "SSL",
-      "rank": 4,
-      "score": 1.0112
-    },
-    {
-      "ticker": "REPX",
-      "rank": 5,
-      "score": 0.45
-    },
-    {
-      "ticker": "RVTY",
-      "rank": 6,
-      "score": 0.401
-    },
-    {
-      "ticker": "STNG",
-      "rank": 7,
-      "score": 0.2769
-    },
-    {
-      "ticker": "TEVA",
-      "rank": 8,
-      "score": 0.2726
-    },
-    {
-      "ticker": "TRGP",
-      "rank": 9,
-      "score": 0.2447
-    },
-    {
-      "ticker": "UGP",
-      "rank": 10,
-      "score": 0.2128
-    },
-    {
-      "ticker": "PRSU",
-      "rank": 11,
-      "score": 0.0309
-    },
-    {
-      "ticker": "SNX",
-      "rank": 12,
-      "score": -0.07
-    },
-    {
-      "ticker": "SXT",
-      "rank": 13,
-      "score": -0.1001
-    },
-    {
-      "ticker": "WDS",
-      "rank": 14,
-      "score": -0.1078
-    },
-    {
-      "ticker": "WNC",
-      "rank": 15,
-      "score": -0.1347
-    },
-    {
-      "ticker": "WST",
-      "rank": 16,
-      "score": -0.1361
-    },
-    {
       "ticker": "AMG",
-      "rank": 17,
-      "score": -0.14
+      "rank": 1,
+      "score": 0.3536
     },
     {
-      "ticker": "PM",
-      "rank": 18,
-      "score": -0.2906
-    },
-    {
-      "ticker": "TTE",
-      "rank": 19,
-      "score": -0.3232
-    },
-    {
-      "ticker": "ROG",
-      "rank": 20,
-      "score": -0.3527
+      "ticker": "SHEL",
+      "rank": 2,
+      "score": -0.3536
     }
   ]
 }
