@@ -1,108 +1,13 @@
 {
-  "date": "2026-10-19",
-  "generated_at_utc": "2026-10-19T00:14:23Z",
+  "date": "2026-10-20",
+  "generated_at_utc": "2026-10-20T01:07:51Z",
   "source": "alpha-screener",
-  "count": 20,
+  "count": 1,
   "candidates": [
     {
-      "ticker": "ECO",
+      "ticker": "AMG",
       "rank": 1,
-      "score": 1.7437
-    },
-    {
-      "ticker": "IOVA",
-      "rank": 2,
-      "score": 1.5934
-    },
-    {
-      "ticker": "CDNA",
-      "rank": 3,
-      "score": 1.3298
-    },
-    {
-      "ticker": "IBRX",
-      "rank": 4,
-      "score": 1.2143
-    },
-    {
-      "ticker": "RNG",
-      "rank": 5,
-      "score": 1.1789
-    },
-    {
-      "ticker": "INSW",
-      "rank": 6,
-      "score": 1.1341
-    },
-    {
-      "ticker": "PAYS",
-      "rank": 7,
-      "score": 1.1164
-    },
-    {
-      "ticker": "LPG",
-      "rank": 8,
-      "score": 1.021
-    },
-    {
-      "ticker": "FRO",
-      "rank": 9,
-      "score": 0.9699
-    },
-    {
-      "ticker": "VLO",
-      "rank": 10,
-      "score": 0.8498
-    },
-    {
-      "ticker": "CLMT",
-      "rank": 11,
-      "score": 0.8219
-    },
-    {
-      "ticker": "PACS",
-      "rank": 12,
-      "score": 0.808
-    },
-    {
-      "ticker": "NAT",
-      "rank": 13,
-      "score": 0.8026
-    },
-    {
-      "ticker": "KRT",
-      "rank": 14,
-      "score": 0.6672
-    },
-    {
-      "ticker": "NTRA",
-      "rank": 15,
-      "score": 0.6267
-    },
-    {
-      "ticker": "KOD",
-      "rank": 16,
-      "score": 0.6209
-    },
-    {
-      "ticker": "DHT",
-      "rank": 17,
-      "score": 0.5869
-    },
-    {
-      "ticker": "DK",
-      "rank": 18,
-      "score": 0.571
-    },
-    {
-      "ticker": "TEN",
-      "rank": 19,
-      "score": 0.5519
-    },
-    {
-      "ticker": "FTRE",
-      "rank": 20,
-      "score": 0.5243
+      "score": 0.0
     }
   ]
 }
