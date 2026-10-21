@@ -1,13 +1,7 @@
 {
-  "date": "2026-10-20",
-  "generated_at_utc": "2026-10-20T01:07:51Z",
+  "date": "2026-10-21",
+  "generated_at_utc": "2026-10-21T00:37:51Z",
   "source": "alpha-screener",
-  "count": 1,
-  "candidates": [
-    {
-      "ticker": "AMG",
-      "rank": 1,
-      "score": 0.0
-    }
-  ]
+  "count": 0,
+  "candidates": []
 }
