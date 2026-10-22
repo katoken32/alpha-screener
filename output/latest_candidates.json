@@ -1,7 +1,13 @@
 {
-  "date": "2026-10-21",
-  "generated_at_utc": "2026-10-21T00:37:51Z",
+  "date": "2026-10-22",
+  "generated_at_utc": "2026-10-22T00:38:41Z",
   "source": "alpha-screener",
-  "count": 0,
-  "candidates": []
+  "count": 1,
+  "candidates": [
+    {
+      "ticker": "SHEL",
+      "rank": 1,
+      "score": 0.0
+    }
+  ]
 }
