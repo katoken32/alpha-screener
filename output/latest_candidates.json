@@ -1,13 +1,108 @@
 {
-  "date": "2026-10-23",
-  "generated_at_utc": "2026-10-23T00:41:05Z",
+  "date": "2026-10-26",
+  "generated_at_utc": "2026-10-26T00:10:33Z",
   "source": "alpha-screener",
-  "count": 1,
+  "count": 20,
   "candidates": [
     {
-      "ticker": "SHEL",
+      "ticker": "TWLO",
       "rank": 1,
-      "score": 0.0
+      "score": 1.7559
+    },
+    {
+      "ticker": "IOVA",
+      "rank": 2,
+      "score": 1.6058
+    },
+    {
+      "ticker": "ECO",
+      "rank": 3,
+      "score": 1.5362
+    },
+    {
+      "ticker": "CDNA",
+      "rank": 4,
+      "score": 1.3563
+    },
+    {
+      "ticker": "RNG",
+      "rank": 5,
+      "score": 1.3318
+    },
+    {
+      "ticker": "PAYS",
+      "rank": 6,
+      "score": 1.2929
+    },
+    {
+      "ticker": "HNGE",
+      "rank": 7,
+      "score": 1.0969
+    },
+    {
+      "ticker": "INSW",
+      "rank": 8,
+      "score": 0.9906
+    },
+    {
+      "ticker": "FRO",
+      "rank": 9,
+      "score": 0.9461
+    },
+    {
+      "ticker": "PACS",
+      "rank": 10,
+      "score": 0.8828
+    },
+    {
+      "ticker": "QLYS",
+      "rank": 11,
+      "score": 0.8518
+    },
+    {
+      "ticker": "NTRA",
+      "rank": 12,
+      "score": 0.8315
+    },
+    {
+      "ticker": "NAT",
+      "rank": 13,
+      "score": 0.7448
+    },
+    {
+      "ticker": "HAE",
+      "rank": 14,
+      "score": 0.7253
+    },
+    {
+      "ticker": "APPN",
+      "rank": 15,
+      "score": 0.6946
+    },
+    {
+      "ticker": "AMPL",
+      "rank": 16,
+      "score": 0.6778
+    },
+    {
+      "ticker": "SLN",
+      "rank": 17,
+      "score": 0.6728
+    },
+    {
+      "ticker": "HALO",
+      "rank": 18,
+      "score": 0.661
+    },
+    {
+      "ticker": "LIND",
+      "rank": 19,
+      "score": 0.6381
+    },
+    {
+      "ticker": "FTRE",
+      "rank": 20,
+      "score": 0.6114
     }
   ]
 }
