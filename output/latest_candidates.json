@@ -1,7 +1,108 @@
 {
-  "date": "2026-10-28",
-  "generated_at_utc": "2026-10-28T01:13:00Z",
+  "date": "2026-10-29",
+  "generated_at_utc": "2026-10-29T01:49:28Z",
   "source": "alpha-screener",
-  "count": 0,
-  "candidates": []
+  "count": 20,
+  "candidates": [
+    {
+      "ticker": "RNG",
+      "rank": 1,
+      "score": 1.696
+    },
+    {
+      "ticker": "TXG",
+      "rank": 2,
+      "score": 1.659
+    },
+    {
+      "ticker": "TWST",
+      "rank": 3,
+      "score": 1.4966
+    },
+    {
+      "ticker": "CDNA",
+      "rank": 4,
+      "score": 1.3412
+    },
+    {
+      "ticker": "ECO",
+      "rank": 5,
+      "score": 1.2732
+    },
+    {
+      "ticker": "IBRX",
+      "rank": 6,
+      "score": 1.1166
+    },
+    {
+      "ticker": "PAYS",
+      "rank": 7,
+      "score": 0.8371
+    },
+    {
+      "ticker": "ABSI",
+      "rank": 8,
+      "score": 0.8345
+    },
+    {
+      "ticker": "FRO",
+      "rank": 9,
+      "score": 0.8103
+    },
+    {
+      "ticker": "INSW",
+      "rank": 10,
+      "score": 0.7952
+    },
+    {
+      "ticker": "ASX",
+      "rank": 11,
+      "score": 0.7648
+    },
+    {
+      "ticker": "NTRA",
+      "rank": 12,
+      "score": 0.7317
+    },
+    {
+      "ticker": "PACS",
+      "rank": 13,
+      "score": 0.6953
+    },
+    {
+      "ticker": "LIND",
+      "rank": 14,
+      "score": 0.6844
+    },
+    {
+      "ticker": "XNCR",
+      "rank": 15,
+      "score": 0.6434
+    },
+    {
+      "ticker": "QLYS",
+      "rank": 16,
+      "score": 0.6392
+    },
+    {
+      "ticker": "NAT",
+      "rank": 17,
+      "score": 0.616
+    },
+    {
+      "ticker": "SLN",
+      "rank": 18,
+      "score": 0.5835
+    },
+    {
+      "ticker": "HALO",
+      "rank": 19,
+      "score": 0.5782
+    },
+    {
+      "ticker": "HAE",
+      "rank": 20,
+      "score": 0.5664
+    }
+  ]
 }
