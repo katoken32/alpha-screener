@@ -1,108 +1,108 @@
 {
-  "date": "2026-10-29",
-  "generated_at_utc": "2026-10-29T01:49:28Z",
+  "date": "2026-10-30",
+  "generated_at_utc": "2026-10-30T01:55:49Z",
   "source": "alpha-screener",
   "count": 20,
   "candidates": [
     {
       "ticker": "RNG",
       "rank": 1,
-      "score": 1.696
+      "score": 1.66
     },
     {
       "ticker": "TXG",
       "rank": 2,
-      "score": 1.659
+      "score": 1.6532
+    },
+    {
+      "ticker": "PCLA",
+      "rank": 3,
+      "score": 1.5699
     },
     {
       "ticker": "TWST",
-      "rank": 3,
-      "score": 1.4966
+      "rank": 4,
+      "score": 1.4886
     },
     {
       "ticker": "CDNA",
-      "rank": 4,
-      "score": 1.3412
+      "rank": 5,
+      "score": 1.3241
     },
     {
       "ticker": "ECO",
-      "rank": 5,
-      "score": 1.2732
+      "rank": 6,
+      "score": 1.2825
     },
     {
       "ticker": "IBRX",
-      "rank": 6,
-      "score": 1.1166
-    },
-    {
-      "ticker": "PAYS",
       "rank": 7,
-      "score": 0.8371
+      "score": 1.2542
     },
     {
       "ticker": "ABSI",
       "rank": 8,
-      "score": 0.8345
+      "score": 0.8822
     },
     {
       "ticker": "FRO",
       "rank": 9,
-      "score": 0.8103
+      "score": 0.8206
     },
     {
       "ticker": "INSW",
       "rank": 10,
-      "score": 0.7952
+      "score": 0.7721
     },
     {
-      "ticker": "ASX",
+      "ticker": "QLYS",
       "rank": 11,
-      "score": 0.7648
+      "score": 0.75
     },
     {
       "ticker": "NTRA",
       "rank": 12,
-      "score": 0.7317
+      "score": 0.7123
+    },
+    {
+      "ticker": "ASX",
+      "rank": 13,
+      "score": 0.7044
     },
     {
       "ticker": "PACS",
-      "rank": 13,
-      "score": 0.6953
-    },
-    {
-      "ticker": "LIND",
       "rank": 14,
-      "score": 0.6844
+      "score": 0.6904
     },
     {
       "ticker": "XNCR",
       "rank": 15,
-      "score": 0.6434
+      "score": 0.5841
     },
     {
-      "ticker": "QLYS",
+      "ticker": "GKOS",
       "rank": 16,
-      "score": 0.6392
+      "score": 0.5786
+    },
+    {
+      "ticker": "APPN",
+      "rank": 17,
+      "score": 0.5766
     },
     {
       "ticker": "NAT",
-      "rank": 17,
-      "score": 0.616
-    },
-    {
-      "ticker": "SLN",
       "rank": 18,
-      "score": 0.5835
-    },
-    {
-      "ticker": "HALO",
-      "rank": 19,
-      "score": 0.5782
+      "score": 0.5754
     },
     {
       "ticker": "HAE",
+      "rank": 19,
+      "score": 0.5747
+    },
+    {
+      "ticker": "SLN",
       "rank": 20,
-      "score": 0.5664
+      "score": 0.5477
     }
   ]
 }
