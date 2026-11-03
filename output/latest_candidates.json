@@ -1,108 +1,108 @@
 {
-  "date": "2026-11-02",
-  "generated_at_utc": "2026-11-02T01:31:59Z",
+  "date": "2026-11-03",
+  "generated_at_utc": "2026-11-03T03:31:50Z",
   "source": "alpha-screener",
   "count": 20,
   "candidates": [
     {
       "ticker": "REPL",
       "rank": 1,
-      "score": 1.5629
+      "score": 1.5623
     },
     {
       "ticker": "CDNA",
       "rank": 2,
-      "score": 1.5358
+      "score": 1.5404
     },
     {
-      "ticker": "ECO",
+      "ticker": "MRNA",
       "rank": 3,
-      "score": 1.4994
+      "score": 1.4581
     },
     {
       "ticker": "RNG",
       "rank": 4,
-      "score": 1.4736
+      "score": 1.2092
+    },
+    {
+      "ticker": "ECO",
+      "rank": 5,
+      "score": 1.1765
     },
     {
       "ticker": "SEPN",
-      "rank": 5,
-      "score": 1.1847
+      "rank": 6,
+      "score": 1.0483
+    },
+    {
+      "ticker": "PAYS",
+      "rank": 7,
+      "score": 1.044
     },
     {
       "ticker": "HNGE",
-      "rank": 6,
-      "score": 1.1559
-    },
-    {
-      "ticker": "ABSI",
-      "rank": 7,
-      "score": 1.0752
-    },
-    {
-      "ticker": "FRO",
       "rank": 8,
-      "score": 0.8973
-    },
-    {
-      "ticker": "QLYS",
-      "rank": 9,
-      "score": 0.8879
+      "score": 0.9126
     },
     {
       "ticker": "PACS",
+      "rank": 9,
+      "score": 0.7337
+    },
+    {
+      "ticker": "ABSI",
       "rank": 10,
-      "score": 0.8874
+      "score": 0.7299
     },
     {
-      "ticker": "INSW",
+      "ticker": "FRO",
       "rank": 11,
-      "score": 0.8692
-    },
-    {
-      "ticker": "NTRA",
-      "rank": 12,
-      "score": 0.802
-    },
-    {
-      "ticker": "SLN",
-      "rank": 13,
-      "score": 0.7884
+      "score": 0.7272
     },
     {
       "ticker": "HAE",
+      "rank": 12,
+      "score": 0.6972
+    },
+    {
+      "ticker": "QLYS",
+      "rank": 13,
+      "score": 0.6272
+    },
+    {
+      "ticker": "SYNA",
       "rank": 14,
-      "score": 0.7774
+      "score": 0.5966
     },
     {
-      "ticker": "GKOS",
+      "ticker": "SLN",
       "rank": 15,
-      "score": 0.7355
-    },
-    {
-      "ticker": "NAT",
-      "rank": 16,
-      "score": 0.7147
-    },
-    {
-      "ticker": "XNCR",
-      "rank": 17,
-      "score": 0.6763
+      "score": 0.5901
     },
     {
       "ticker": "CAKE",
+      "rank": 16,
+      "score": 0.5635
+    },
+    {
+      "ticker": "NTRA",
+      "rank": 17,
+      "score": 0.5593
+    },
+    {
+      "ticker": "GKOS",
       "rank": 18,
-      "score": 0.6399
+      "score": 0.5325
     },
     {
-      "ticker": "AMPL",
+      "ticker": "XNCR",
       "rank": 19,
-      "score": 0.5454
+      "score": 0.5161
     },
     {
-      "ticker": "DHT",
+      "ticker": "CBLL",
       "rank": 20,
-      "score": 0.5133
+      "score": 0.4849
     }
   ]
 }
