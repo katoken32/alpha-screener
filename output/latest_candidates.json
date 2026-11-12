@@ -1,108 +1,108 @@
 {
-  "date": "2026-11-11",
-  "generated_at_utc": "2026-11-11T01:54:26Z",
+  "date": "2026-11-12",
+  "generated_at_utc": "2026-11-12T02:56:54Z",
   "source": "alpha-screener",
   "count": 20,
   "candidates": [
     {
-      "ticker": "CRL",
+      "ticker": "CDNA",
       "rank": 1,
-      "score": 1.8475
+      "score": 2.2299
     },
     {
-      "ticker": "HAE",
+      "ticker": "ECO",
       "rank": 2,
-      "score": 1.7658
+      "score": 2.1359
+    },
+    {
+      "ticker": "FOSL",
+      "rank": 3,
+      "score": 1.6409
+    },
+    {
+      "ticker": "REPL",
+      "rank": 4,
+      "score": 1.5843
+    },
+    {
+      "ticker": "XNCR",
+      "rank": 5,
+      "score": 1.4003
+    },
+    {
+      "ticker": "ABSI",
+      "rank": 6,
+      "score": 1.2946
+    },
+    {
+      "ticker": "AGL",
+      "rank": 7,
+      "score": 1.284
     },
     {
       "ticker": "ORKA",
-      "rank": 3,
-      "score": 1.7154
-    },
-    {
-      "ticker": "STGW",
-      "rank": 4,
-      "score": 1.3767
-    },
-    {
-      "ticker": "PRSU",
-      "rank": 5,
-      "score": 1.367
-    },
-    {
-      "ticker": "CYRX",
-      "rank": 6,
-      "score": 1.3415
-    },
-    {
-      "ticker": "NSIT",
-      "rank": 7,
-      "score": 1.3413
-    },
-    {
-      "ticker": "OSPN",
       "rank": 8,
-      "score": 1.1973
+      "score": 1.2429
     },
     {
-      "ticker": "TGTX",
+      "ticker": "AMPL",
       "rank": 9,
-      "score": 1.0011
+      "score": 1.2159
     },
     {
-      "ticker": "KSS",
+      "ticker": "DCTH",
       "rank": 10,
-      "score": 0.7993
+      "score": 1.2015
     },
     {
-      "ticker": "ACHC",
+      "ticker": "PACS",
       "rank": 11,
-      "score": 0.7802
+      "score": 1.1843
     },
     {
-      "ticker": "HUM",
+      "ticker": "ROIV",
       "rank": 12,
-      "score": 0.7534
+      "score": 1.0755
     },
     {
-      "ticker": "PEB",
+      "ticker": "ELF",
       "rank": 13,
-      "score": 0.7205
+      "score": 1.0668
     },
     {
-      "ticker": "CROX",
+      "ticker": "MGNI",
       "rank": 14,
-      "score": 0.7168
+      "score": 1.0164
     },
     {
-      "ticker": "MANH",
+      "ticker": "FIGS",
       "rank": 15,
-      "score": 0.7024
+      "score": 0.9997
     },
     {
-      "ticker": "GSAT",
+      "ticker": "XERS",
       "rank": 16,
-      "score": 0.6099
+      "score": 0.9852
     },
     {
-      "ticker": "EXEL",
+      "ticker": "CBLL",
       "rank": 17,
-      "score": 0.5691
+      "score": 0.9757
     },
     {
-      "ticker": "RLJ",
+      "ticker": "SLN",
       "rank": 18,
-      "score": 0.5432
+      "score": 0.964
     },
     {
-      "ticker": "HELE",
+      "ticker": "CRL",
       "rank": 19,
-      "score": 0.4797
+      "score": 0.8947
     },
     {
-      "ticker": "VTRS",
+      "ticker": "SEZL",
       "rank": 20,
-      "score": 0.4662
+      "score": 0.884
     }
   ]
 }
