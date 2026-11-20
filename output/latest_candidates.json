@@ -1,108 +1,108 @@
 {
-  "date": "2026-11-19",
-  "generated_at_utc": "2026-11-19T03:12:28Z",
+  "date": "2026-11-20",
+  "generated_at_utc": "2026-11-20T03:02:30Z",
   "source": "alpha-screener",
   "count": 20,
   "candidates": [
     {
-      "ticker": "RCEL",
+      "ticker": "HZO",
       "rank": 1,
-      "score": 1.8359
+      "score": 1.8713
     },
     {
-      "ticker": "FOSL",
+      "ticker": "ORKA",
       "rank": 2,
-      "score": 1.6274
-    },
-    {
-      "ticker": "REPL",
-      "rank": 3,
-      "score": 1.5821
+      "score": 1.6733
     },
     {
       "ticker": "CAKE",
+      "rank": 3,
+      "score": 1.6557
+    },
+    {
+      "ticker": "FOSL",
       "rank": 4,
-      "score": 1.4672
+      "score": 1.6443
     },
     {
-      "ticker": "HZO",
+      "ticker": "ACHC",
       "rank": 5,
-      "score": 1.3777
+      "score": 1.2738
     },
     {
-      "ticker": "XERS",
+      "ticker": "HAE",
       "rank": 6,
-      "score": 1.3772
+      "score": 0.9672
     },
     {
-      "ticker": "XNCR",
+      "ticker": "CYRX",
       "rank": 7,
-      "score": 1.3531
+      "score": 0.9397
     },
     {
-      "ticker": "ELF",
+      "ticker": "OSPN",
       "rank": 8,
-      "score": 1.3303
+      "score": 0.925
     },
     {
-      "ticker": "SEZL",
+      "ticker": "TGTX",
       "rank": 9,
-      "score": 1.242
+      "score": 0.9218
     },
     {
-      "ticker": "AMPL",
+      "ticker": "STGW",
       "rank": 10,
-      "score": 1.2292
+      "score": 0.6378
     },
     {
-      "ticker": "CRL",
+      "ticker": "PEB",
       "rank": 11,
-      "score": 1.1501
+      "score": 0.6029
     },
     {
-      "ticker": "PRCH",
+      "ticker": "MANH",
       "rank": 12,
-      "score": 1.1013
+      "score": 0.5724
     },
     {
-      "ticker": "DCTH",
+      "ticker": "VAC",
       "rank": 13,
-      "score": 1.0996
+      "score": 0.5514
     },
     {
-      "ticker": "ETON",
+      "ticker": "SWK",
       "rank": 14,
-      "score": 1.0957
+      "score": 0.5183
     },
     {
-      "ticker": "FIGS",
+      "ticker": "AXGN",
       "rank": 15,
-      "score": 1.0778
+      "score": 0.5123
     },
     {
-      "ticker": "MGNI",
+      "ticker": "MLAB",
       "rank": 16,
-      "score": 1.0442
+      "score": 0.5123
     },
     {
-      "ticker": "PUBM",
+      "ticker": "EXEL",
       "rank": 17,
-      "score": 1.0236
+      "score": 0.4242
     },
     {
-      "ticker": "PACS",
+      "ticker": "CROX",
       "rank": 18,
-      "score": 0.998
+      "score": 0.4142
     },
     {
-      "ticker": "ROIV",
+      "ticker": "TGT",
       "rank": 19,
-      "score": 0.9848
+      "score": 0.3553
     },
     {
-      "ticker": "VIA",
+      "ticker": "WWW",
       "rank": 20,
-      "score": 0.978
+      "score": 0.3504
     }
   ]
 }
