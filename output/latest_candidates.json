@@ -1,108 +1,108 @@
 {
-  "date": "2026-11-24",
-  "generated_at_utc": "2026-11-24T05:59:00Z",
+  "date": "2026-11-25",
+  "generated_at_utc": "2026-11-25T04:57:07Z",
   "source": "alpha-screener",
   "count": 20,
   "candidates": [
     {
-      "ticker": "OKTA",
+      "ticker": "ORKA",
       "rank": 1,
-      "score": 1.8268
-    },
-    {
-      "ticker": "FOSL",
-      "rank": 2,
-      "score": 1.6127
-    },
-    {
-      "ticker": "REPL",
-      "rank": 3,
-      "score": 1.5919
-    },
-    {
-      "ticker": "HZO",
-      "rank": 4,
-      "score": 1.558
+      "score": 1.6524
     },
     {
       "ticker": "XERS",
-      "rank": 5,
-      "score": 1.533
+      "rank": 2,
+      "score": 1.6022
     },
     {
-      "ticker": "AMPL",
-      "rank": 6,
-      "score": 1.4184
+      "ticker": "FOSL",
+      "rank": 3,
+      "score": 1.5974
     },
     {
-      "ticker": "SN",
-      "rank": 7,
-      "score": 1.3913
+      "ticker": "REPL",
+      "rank": 4,
+      "score": 1.597
     },
     {
       "ticker": "GKOS",
+      "rank": 5,
+      "score": 1.4199
+    },
+    {
+      "ticker": "SN",
+      "rank": 6,
+      "score": 1.4092
+    },
+    {
+      "ticker": "HZO",
+      "rank": 7,
+      "score": 1.408
+    },
+    {
+      "ticker": "AMPL",
       "rank": 8,
-      "score": 1.3237
-    },
-    {
-      "ticker": "CAKE",
-      "rank": 9,
-      "score": 1.2973
-    },
-    {
-      "ticker": "DCTH",
-      "rank": 10,
-      "score": 1.2921
-    },
-    {
-      "ticker": "PRCH",
-      "rank": 11,
-      "score": 1.1803
+      "score": 1.3982
     },
     {
       "ticker": "VIA",
+      "rank": 9,
+      "score": 1.2559
+    },
+    {
+      "ticker": "PRCH",
+      "rank": 10,
+      "score": 1.2513
+    },
+    {
+      "ticker": "CAKE",
+      "rank": 11,
+      "score": 1.2438
+    },
+    {
+      "ticker": "DCTH",
       "rank": 12,
-      "score": 1.1665
+      "score": 1.1817
     },
     {
       "ticker": "ETON",
       "rank": 13,
-      "score": 1.165
-    },
-    {
-      "ticker": "SEZL",
-      "rank": 14,
-      "score": 1.1478
-    },
-    {
-      "ticker": "ACHC",
-      "rank": 15,
-      "score": 1.1232
-    },
-    {
-      "ticker": "FIGS",
-      "rank": 16,
-      "score": 1.1181
+      "score": 1.1646
     },
     {
       "ticker": "APPN",
+      "rank": 14,
+      "score": 1.1072
+    },
+    {
+      "ticker": "FIGS",
+      "rank": 15,
+      "score": 1.08
+    },
+    {
+      "ticker": "GMAB",
+      "rank": 16,
+      "score": 1.0157
+    },
+    {
+      "ticker": "ACHC",
       "rank": 17,
-      "score": 1.1158
+      "score": 0.9984
     },
     {
-      "ticker": "PUBM",
+      "ticker": "KYMR",
       "rank": 18,
-      "score": 1.0702
+      "score": 0.9959
     },
     {
-      "ticker": "MGNI",
+      "ticker": "KNSA",
       "rank": 19,
-      "score": 0.988
+      "score": 0.9901
     },
     {
       "ticker": "IBTA",
       "rank": 20,
-      "score": 0.9764
+      "score": 0.9756
     }
   ]
 }
